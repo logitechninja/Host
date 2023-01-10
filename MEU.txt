@@ -1,0 +1,735 @@
+#EXTINF:-1,#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/Apollo2000/TVGuide/raw/master/utc.lite.xml.gz" refresh="3600"
+
+#EXTINF:-1  tvg-name="Starz" tvg-id="StarzEast.us" tvg-logo="https://i.imgur.com/lEFr7Rn.png" group-title="Test",Starz
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:B5:0D:7E&stream=9666&extension=ts
+#EXTINF:-1  tvg-name="Star Movies" tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Test",Star Movies
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:ab:98:86&stream=136629&extension=ts&play_token=I0DMNLsHGF
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="Test",TNT
+http://sverigeplay.tv/play/live.php?mac=10:27:be:15:df:31&stream=11580&extension=ts&play_token=YNh8behIPG
+#EXTINF:-1  tvg-name="Disney Junior" tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.imgur.com/C9IYfga.png" group-title="Test",Disney Junior
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:41:98:CF&stream=16770&extension=ts&play_token=kfWzTSKetQ
+#EXTINF:-1  tvg-name="NBA TV" tvg-id="NBATV.us" tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="Test",NBA TV
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=115738&extension=ts&play_token=1abiaJReWZ
+#EXTINF:-1  tvg-name="CBS" tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/wxGbfd0.png" group-title="Test",CBS
+http://v-pi.theus6tv.duckdns.org/hls/3.1/playlist.m3u8
+#EXTINF:-1  tvg-name="ABC" tvg-id="ABCEast.us" tvg-logo="https://i.imgur.com/al9Ly6O.png" group-title="Test",ABC
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1  tvg-name="The CW East" tvg-id="WPIXDT1.us" tvg-logo="https://i.imgur.com/envRlhX.png" group-title="Test",The CW East
+http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+#EXTINF:-1  tvg-name="Dabl" tvg-id="Dabl.us" tvg-logo="https://i.imgur.com/0EbItrr.png" group-title="Test",Dabl
+http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
+#EXTINF:-1  tvg-name="NBC" tvg-id="NBCEast.us" tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="Test",NBC
+http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1  tvg-name="FOX 29" tvg-id="WTXFDT1.us" tvg-logo="https://i.imgur.com/LZxAS3b.png" group-title="Test",FOX 29
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+#EXTINF:-1  tvg-name="FOX 5" tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="Test",FOX 5
+http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="DisneyChannelEast.us" tvg-logo="https://i.imgur.com/RNfYJb2.png" group-title="Test",Disney Channel
+http://ky-iptv.com:80/live/Peaches1/Peaches1/176246.ts
+#EXTINF:-1  tvg-name="DreamWorks Channel" tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Test",DreamWorks Channel (ss123)
+http://ss123.pro:80/play/live.php?mac=00:1A:79:d7:9f:67&stream=926185&extension=ts&play_token=9FlZNTmyTJ
+#EXTINF:-1 ch-number="42" tvg-id="StarMoviesSelectHD.in" tvg-name="Star Movies Select" tvg-logo="https://i.imgur.com/9nfdMUO.png" group-title="Test",Star Movies Select
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:91:db:9c&stream=862741&extension=ts&play_token=7797Sud1VB
+#EXTINF:-1 ch-number="44" tvg-id="SyfyEast.us" tvg-name="Syfy" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Test",Syfy
+http://ppvplug.net:8880/play/live.php?mac=00:1A:79:39:C8:55&stream=860317&extension=ts&play_token=qUFDgWsenK
+#EXTINF:-1 group-title="Test" tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",Baby First 3
+http://190.61.102.67:444/play/a01x
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rjr6NK1/BABY-FIRST.png" group-title="USA KIDS 🇺🇸",🇺🇸US: BABY FIRST
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418035
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="USA KIDS 🇺🇸",🇺🇸US: BOOMERANG
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418036
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: CARTOON NETWORK
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418037
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Cartoon Network (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419270
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_(2014).svg/1200px-Disney_Channel_logo_(2014).svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY CHANNEL
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418033
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LzzbVc18-vo/UaIsNVYWrGI/AAAAAAAACkY/gvKSMjbyb4A/s1600/DisneyChannelEARS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney Channel (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419271
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY JR.
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418042
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney Junior (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419272
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS 🇺🇸",🇺🇸US: DISNEY XD
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418034
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6mNMjGy/DISNEY-XD.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Disney XD (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419273
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="USA KIDS 🇺🇸",🇺🇸US: HAPPYKIDS
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418045
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="USA KIDS 🇺🇸",🇺🇸US: HAPPYKIDS JR
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418046
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/38/USAK3508716A_20210323T125644.png" group-title="USA KIDS 🇺🇸",🇺🇸US: KIDOODLE.TV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418041
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICK JR
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418031
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nick Jr (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419274
+#EXTINF:-1 tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICKELODEON
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418039
+#EXTINF:-1 tvg-logo="https://clipground.com/images/nickelodeon-clipart-3.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nickelodeon (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419275
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DK68W0z/NICKTOONS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: NICKTOONS
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418032
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DK68W0z/NICKTOONS.png" group-title="USA KIDS 🇺🇸",🇺🇸US: Nicktoons (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419276
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/150px-PBS_Kids_Logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: PBS KIDS
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418040
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: TEENNICK
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418030
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/250px-TeenNick_2019_logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: TeenNick (West)
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/419277
+#EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20201028T004919.png" group-title="USA KIDS 🇺🇸",🇺🇸US: THE LEGO CHANNEL
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418044
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Universal_Kids_2019_Logo.svg/220px-Universal_Kids_2019_Logo.svg.png" group-title="USA KIDS 🇺🇸",🇺🇸US: UNIVERSAL KIDS
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/418038
+
+
+
+#EXTINF:-1 Group-title="Testing",NBA TV
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693
+
+#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" Group-title="Testing" ,NBA HD NETWORK
+http://dmtn.tv:8080/steveny5997/54332611/370883
+
+#EXTINF:-1 Group-title="Testing",NBA TV 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" Group-title="Testing",Eurosport 1
+https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" Group-title="Testing",Eurosport 2
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLU PLAY 1 HD
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" Group-title="Testing" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLU PLAY 2 HD
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA| PBS KIDS HD" tvg-logo="http://iptvglobal.site:25461/images/4a9adc3ecdbc4a60e0cc33a7ec4dfc1a.png" group-title="DIRECTV USA (HD)",USA| PBS KIDS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87961
+#EXTINF:-1 tvg-id="" tvg-name="USA| NICKELODEON HD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="DIRECTV USA (HD)",USA| NICKELODEON HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87962
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY JR HD" tvg-logo="https://i.picasion.com/pic92/df1812f643a003097a536093de37b04f.gif" group-title="DIRECTV USA (HD)",USA| DISNEY JR HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87963
+#EXTINF:-1 tvg-id="" tvg-name="USA| NICK JR HD" tvg-logo="https://i.picasion.com/pic92/c3364e42434767a688074346bb66d31a.gif" group-title="DIRECTV USA (HD)",USA| NICK JR HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87964
+#EXTINF:-1 tvg-id="" tvg-name="USA| TEEN NICK HD**" tvg-logo="https://i.picasion.com/pic92/7643767d6d3e5938afcace7ee52876d6.gif" group-title="DIRECTV USA (HD)",USA| TEEN NICK HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87965
+#EXTINF:-1 tvg-id="" tvg-name="USA| DISNEY CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/009881f71fe3a89fc0046b2cbdfaf437.gif" group-title="DIRECTV USA (HD)",USA| DISNEY CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87969
+#EXTINF:-1 tvg-id="" tvg-name="USA| CARTOON NETWORK HD" tvg-logo="https://i.picasion.com/pic92/b1f38c6755faad12fdf555290c877050.gif" group-title="DIRECTV USA (HD)",USA| CARTOON NETWORK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87970
+#EXTINF:-1 tvg-id="" tvg-name="USA| BOOMERANG HD" tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif" group-title="DIRECTV USA (HD)",USA| BOOMERANG HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87971
+#EXTINF:-1 tvg-id="" tvg-name="USA| BABY TV HD" tvg-logo="https://i.picasion.com/pic92/285258ac0eafdfb930dfef47cbcd8860.gif" group-title="DIRECTV USA (HD)",USA| BABY TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87972
+
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY HD" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87925
+#EXTINF:-1 tvg-id="" tvg-name="USA| TRUTV HD" tvg-logo="https://i.picasion.com/pic92/30179d683077a217f550e144c8124a52.gif" group-title="DIRECTV USA (HD)",USA| TRUTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87926
+#EXTINF:-1 tvg-id="" tvg-name="USA| FYI HD" tvg-logo="http://iptvglobal.site:25461/images/825e283b29409a5493f1905ce2f20afa.png" group-title="DIRECTV USA (HD)",USA| FYI HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87929
+#EXTINF:-1 tvg-id="" tvg-name="USA| FOOD NETWORK HD" tvg-logo="https://i.picasion.com/pic92/3a27cefe3209fd0821b566cb299be0ea.gif" group-title="DIRECTV USA (HD)",USA| FOOD NETWORK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87931
+#EXTINF:-1 tvg-id="" tvg-name="USA| DIY PREMIUN HD" tvg-logo="https://i.picasion.com/pic92/91313ae2d5fb0dfc1c96a71fe1af41c5.gif" group-title="DIRECTV USA (HD)",USA| DIY PREMIUN HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87932
+#EXTINF:-1 tvg-id="" tvg-name="USA| OWN CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/bf5d38b0f57dd11a4771eb0803677f36.gif" group-title="DIRECTV USA (HD)",USA| OWN CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87933
+#EXTINF:-1 tvg-id="" tvg-name="USA| MAVTV HD" tvg-logo="https://i.picasion.com/pic92/03cbcf6811cda4962f9e7f5b560b0058.gif" group-title="DIRECTV USA (HD)",USA| MAVTV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87937
+#EXTINF:-1 tvg-id="" tvg-name="USA| FREEFORM HD" tvg-logo="https://i.picasion.com/pic92/0ea7e43a12b1fbfb2f2b4d455faae55c.gif" group-title="DIRECTV USA (HD)",USA| FREEFORM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87938
+#EXTINF:-1 tvg-id="" tvg-name="USA| PARAMOUNT CHANNEL HD" tvg-logo="https://i.picasion.com/pic92/d2ad21dfb131192cce0fc5ec487d5a28.gif" group-title="DIRECTV USA (HD)",USA| PARAMOUNT CHANNEL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87942
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXX HD" tvg-logo="https://i.picasion.com/pic92/adede37edc0c7aafc43d02d7f2fe19d5.gif" group-title="DIRECTV USA (HD)",USA| FXX HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87943
+#EXTINF:-1 tvg-id="" tvg-name="USA| FXM HD" tvg-logo="https://i.picasion.com/pic92/7e11e154ea8506a703973f3189f9c4cf.gif" group-title="DIRECTV USA (HD)",USA| FXM HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87944
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD" tvg-logo="https://i.picasion.com/pic92/480962e456395c08a01e4a365746dd7b.gif" group-title="DIRECTV USA (HD)",USA| TNT HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87945
+#EXTINF:-1 tvg-id="" tvg-name="USA| TNT HD *" tvg-logo="https://i.picasion.com/pic92/5c05d3754f57cf1b6a92ec6af44d4685.gif" group-title="DIRECTV USA (HD)",USA| TNT HD *
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87946
+#EXTINF:-1 tvg-id="" tvg-name="USA| PBS HD" tvg-logo="https://i.picasion.com/pic92/20defe0d40e7a803399be0ace16989d2.gif" group-title="DIRECTV USA (HD)",USA| PBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87947
+#EXTINF:-1 tvg-id="" tvg-name="USA| CW HD" tvg-logo="http://iptvglobal.site:25461/images/1ef7283976a7a9660048dbc7ccf64d09.png" group-title="DIRECTV USA (HD)",USA| CW HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87948
+#EXTINF:-1 tvg-id="" tvg-name="USA| THE BLAZE HD" tvg-logo="http://iptvglobal.site:25461/images/1db0872350cde56eac93f837e1d29ab8.png" group-title="DIRECTV USA (HD)",USA| THE BLAZE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87951
+
+#EXTINF:-1 tvg-id="" tvg-name="USA| HALMMAR  HD" tvg-logo="https://www.netclipart.com/pp/m/206-2061729_hallmark-logo-png-hallmark-christmas-movies-svg.png" group-title="DIRECTV USA (HD)",USA| HALLMARK  HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87953
+#EXTINF:-1 tvg-id="" tvg-name="USA| TBS HD" tvg-logo="https://i.picasion.com/pic92/217a8e21effcbbe222bea68403185347.gif" group-title="DIRECTV USA (HD)",USA| TBS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87954
+#EXTINF:-1 tvg-id="" tvg-name="USA| SUNDANCE HD" tvg-logo="http://iptvglobal.site:25461/images/e633489f5fd2e12c6de496e5f9ffa75a.png "group-title="DIRECTV USA (HD)",USA| SUNDANCE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87955
+#EXTINF:-1 tvg-id="" tvg-name="USA| BRAVO TV HD" tvg-logo="http://iptvglobal.site:25461/images/3ff76bf8f5b46a8b0165b89ca48631a5.png" group-title="DIRECTV USA (HD)",USA| BRAVO TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87959
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="DIRECTV USA (HD)",USA | USA Network
+http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
+#EXTINF:-1 tvg-id="" tvg-name="USA| SYFY WEST HD**" tvg-logo="https://i.picasion.com/pic92/87d87287cb8599c3f4014112af21b2d5.gif" group-title="DIRECTV USA (HD)",USA| SYFY WEST HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103983
+#EXTINF:-1 tvg-id="" tvg-name="USA| OXIGEN HD**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="DIRECTV USA (HD)",USA| OXIGEN HD**
+http://iptvglobal.site:25461/LionTv/r1942G22hz/103984
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129590
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HGTV (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HGTV (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129591
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:TLC (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:TLC (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129592
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:TNT (W)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:TNT (W)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129593
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CNBC" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:CNBC
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129595
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:A&E" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:A&E
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129599
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BIG TEN NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BIG TEN NETWORK
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129605
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:BRAVO WEST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:BRAVO WEST
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129606
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:CARTOON NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:ADULTSWIM
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129607
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:COMEDY CENTRAL EAST" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:COMEDY CENTRAL EAST
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129608
+
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:E! ENTERTAINMENT" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:E! ENTERTAINMENT
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129618
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FOOD NETWORK" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FOOD NETWORK
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129619
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FREEFORM | HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FREEFORM | HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129620
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FXM | HD*" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FXM | HD*
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129621
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:FXX" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:FXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129622
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HALLMARK DRAMA" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HALLMARK DRAMA
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129623
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:Paramount HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:Paramount HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129627
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: MSNBC HD" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: MSNBC HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129628
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: ESPN (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: ESPN (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129630
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:ESPN NEWS (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:ESPN NEWS (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129631
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: OUTERMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: OUTERMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129632
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: EPIX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: EPIX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129634
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO (EST) HD (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO (EST) HD (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129635
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO EAST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO EAST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129636
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HBO PLUS (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HBO PLUS (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129637
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO SIGNATURE (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO SIGNATURE (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129638
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:HBO WEST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:HBO WEST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129639
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: HBO ZONE (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: HBO ZONE (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129640
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:PARAMOUNT CHANNEL (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:PARAMOUNT CHANNEL (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129641
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:SHOWTIME BEYOND (US)" tvg-logo="http://zeroxtv.xyz:2082/images/7efd1a4d5603f0971ff6e0b9fa3b52a7.png" group-title="DIRECTV USA (HD)",SKYUS:SHOWTIME BEYOND (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129642
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: SHOWTIME EXTREME (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: SHOWTIME EXTREME (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129643
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: SHOWTIME 2 (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: SHOWTIME 2 (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129644
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: STARZ COMEDY (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: STARZ COMEDY (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129645
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:STARMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:STARMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129646
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: CINEMAX EAST (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: CINEMAX EAST (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129648
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS:MOREMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS:MOREMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129649
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: ACTIONMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: ACTIONMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129650
+#EXTINF:-1 tvg-id="" tvg-name="SKYUS: OUTERMAX (US)" tvg-logo="https://i.picasion.com/pic92/f99cc8198eb8e7ade1c451feb2189cc5.gif" group-title="DIRECTV USA (HD)",SKYUS: OUTERMAX (US)
+http://iptvglobal.site:25461/LionTv/r1942G22hz/129651
+#EXTINF:-1 tvg-id="" tvg-name="USA| VIP MOVIE STARZ KIDS & FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Starz_Kids_%26_Family_logo.svg/1200px-Starz_Kids_%26_Family_logo.svg.png" group-title="DIRECTV USA (HD)",USA| VIP MOVIE STARZ KIDS & FAMILY HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/119963
+
+
+
+
+#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" ,RTHK 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
+
+#EXTINF:-1 group-title="🇨🇳" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RTHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
+
+#EXTINF:-1 group-title="🇨🇳",中台灣生活網
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🇨🇳",幸福空间居家台
+https://git.io/JgYYF
+
+#EXTINF:-1 group-title="TAIWAN",hkphoenix
+http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1 group-title="TAIWAN",jade
+http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+#EXTINF:-1 group-title="TAIWAN",inews
+http://198.16.64.10:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1 group-title="TAIWAN",jade
+http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 group-title="TAIWAN",J2
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
+#EXTINF:-1 group-title="TAIWAN",RTHK32
+http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 group-title="TAIWAN",VIUTV
+http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b
+#EXTINF:-1 group-title="TAIWAN",BabyTV
+http://198.16.64.10:8278/babytv_twn/playlist.m3u8?tid=MC9C6892759268927592&ct=19225&tsum=c523d815f0353c10a5d528226ebb5779
+#EXTINF:-1 group-title="TAIWAN",VIUTV6
+http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1 group-title="TAIWAN",CNBC
+http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+#EXTINF:-1 group-title="TAIWAN",CINEMAX
+http://198.16.64.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
+#EXTINF:-1 group-title="TAIWAN",CNN
+http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 group-title="TAIWAN",ELEVEN2
+http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
+#EXTINF:-1 group-title="TAIWAN",ELEVEN1
+http://198.16.64.10:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+#EXTINF:-1 group-title="TAIWAN",FoxNews
+http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+#EXTINF:-1 group-title="TAIWAN",France24
+http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+#EXTINF:-1 group-title="TAIWAN",HBO
+http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 group-title="TAIWAN",jettv_japan
+http://198.16.64.10:8278/jettv_japan/playlist.m3u8?tid=MA7A4202687942026879&ct=19225&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+#EXTINF:-1 group-title="TAIWAN",TLC
+http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 group-title="TAIWAN",TVBS
+http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 group-title="TAIWAN",TVBS???
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1 group-title="TAIWAN",TVBS huanle
+http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 group-title="TAIWAN",tvbxinhe
+http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+#EXTINF:-1 group-title="TAIWAN",sanlixiju
+http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct=19226&tsum=78944c0951d21a699e46fff4318a3799
+#EXTINF:-1 group-title="TAIWAN",yoyo
+http://198.16.64.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+#EXTINF:-1 group-title="TAIWAN",ettvdrama
+http://198.16.64.10:8278/ettvdrama/playlist.m3u8?tid=ME1E3883142638831426&ct=19225&tsum=12c87a5fab65a0ba071cebce86313f45
+#EXTINF:-1 group-title="TAIWAN",ettvnews
+http://198.16.64.10:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 group-title="TAIWAN",ettvmovie
+http://198.16.64.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+#EXTINF:-1 group-title="TAIWAN",ettvwestern
+http://198.16.64.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
+#EXTINF:-1 group-title="TAIWAN",ettvcaijing
+http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
+#EXTINF:-1 group-title="TAIWAN",ctiasia
+http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 group-title="TAIWAN",ctient
+http://198.16.64.10:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 group-title="TAIWAN",ctinews
+http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 group-title="TAIWAN",ctizhonghe
+http://198.16.64.10:8278/ctizhonghe/playlist.m3u8?tid=ME3E9861589598615895&ct=19226&tsum=7e6a4896cab50c2c48d7a889c1076ffc
+#EXTINF:-1 group-title="TAIWAN",zhongshihd
+http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1 group-title="TAIWAN",zhongshinews
+http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+#EXTINF:-1 group-title="TAIWAN",asiatravel
+http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="TAIWAN",badadrama
+http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 group-title="TAIWAN",badazhonghe
+http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="TAIWAN",ctv
+http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
+#EXTINF:-1 group-title="TAIWAN",ctshd
+http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 group-title="TAIWAN",animalplanet_
+http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 group-title="TAIWAN",bosisport2
+http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="TAIWAN",bositennis
+http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="TAIWAN",bosigolf2
+http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="TAIWAN",bosisport1
+http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="TAIWAN",ttv
+http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+#EXTINF:-1 group-title="TAIWAN",weishichinese
+http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8?tid=MA8A7894022878940228&ct=19226&tsum=c0323ce59263e0096d4181626874e17c
+#EXTINF:-1 group-title="TAIWAN",natgeowild
+http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
+#EXTINF:-1 group-title="TAIWAN",natgeohd
+http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
+#EXTINF:-1 group-title="TAIWAN",daai
+http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
+#EXTINF:-1 group-title="TAIWAN",good2
+http://198.16.64.10:8278/good2_twn/playlist.m3u8?tid=ME9E3966510439665104&ct=19225&tsum=a2788b2ccea04a8a8082d663fb7838e5
+#EXTINF:-1 group-title="TAIWAN",hollywoodmovies
+http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+#EXTINF:-1 group-title="TAIWAN",niandainews
+http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
+#EXTINF:-1 group-title="TAIWAN",discoveryturbo
+http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d
+#EXTINF:-1 group-title="TAIWAN",discoverytwn
+http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26
+#EXTINF:-1 group-title="TAIWAN",discoverysc
+http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f
+#EXTINF:-1 group-title="TAIWAN",discoveryhd
+http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1 group-title="TAIWAN",ftvtaiwan
+http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 group-title="TAIWAN",ftvnew_
+http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 group-title="TAIWAN",eltasport2
+http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="TAIWAN",eltasport
+http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+#EXTINF:-1 group-title="TAIWAN",eltadrama
+http://198.16.64.10:8278/eltadrama_twn/playlist.m3u8?tid=MFDF4206608342066083&ct=19225&tsum=c6e03c86e60731f01aef66e1b32dcc84
+#EXTINF:-1 group-title="TAIWAN",eltayingju
+http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8?tid=MFBF4492563944925639&ct=19225&tsum=d4fb09f164ea4850c14546a14d075d04
+#EXTINF:-1 group-title="TAIWAN",videolandsport
+http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
+#EXTINF:-1 group-title="TAIWAN",meiyamovie
+http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+#EXTINF:-1 group-title="TAIWAN",foodplanet
+http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+#EXTINF:-1 group-title="TAIWAN",jingtianintl
+http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="TAIWAN",jingtianinfo
+http://198.16.64.10:8278/jingtianinfo_twn/playlist.m3u8?tid=MBBB4193573341935733&ct=19226&tsum=a90c32c7e1c51e5f30cff8add7dbea68
+#EXTINF:-1 group-title="TAIWAN",jingtiancartoon
+http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+#EXTINF:-1 group-title="TAIWAN",lunghuaidol
+http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8?tid=ME6E1618913016189130&ct=19226&tsum=392d7662a2ff7080289fbe9646e8501d
+#EXTINF:-1 group-title="TAIWAN",feifannews
+http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 group-title="TAIWAN",jingtiancartoon
+http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+#EXTINF:-1 group-title="TAIWAN",lunghuaxiju
+http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MBAB4709384347093843&ct=19226&tsum=a2a7258f8565588e10b8da2f26ba8039
+#EXTINF:-1 group-title="TAIWAN",lunghuawestern
+http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
+#EXTINF:-1 group-title="TAIWAN",lunghuajingdian
+http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+#EXTINF:-1 group-title="TAIWAN",ABCNews
+http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1 group-title="TAIWAN",BTESPN
+http://198.16.64.10:8278/btespn/playlist.m3u8?tid=MA7A3153817131538171&ct=19225&tsum=9452e06c1cdd6935e85cb94a95212a9a
+#EXTINF:-1 group-title="TAIWAN",BTSports1
+http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
+#EXTINF:-1 group-title="TAIWAN",BTSports2
+http://198.16.64.10:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+#EXTINF:-1 group-title="TAIWAN",BTSports3
+http://198.16.64.10:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
+#EXTINF:-1 group-title="TAIWAN",BabyTV
+http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
+#EXTINF:-1 group-title="TAIWAN",BeinSports2
+http://198.16.64.10:8278/Bein2hd/playlist.m3u8?tid=MD5D6186771861867718&ct=19225&tsum=7c0ab40062586283b22934ea37318203
+#EXTINF:-1 group-title="TAIWAN",CBSNews
+http://198.16.64.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1 group-title="TAIWAN",CNAJapan
+http://198.16.64.10:8278/cna_japan/playlist.m3u8?tid=MDBD9115772291157722&ct=19225&tsum=afdf94a5d0b7efaa3e64a42a4fde7455
+#EXTINF:-1 group-title="TAIWAN",CNA
+http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
+#EXTINF:-1 group-title="TAIWAN",CNNInternational
+http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
+#EXTINF:-1 group-title="TAIWAN",CartoonNetwork
+http://198.16.64.10:8278/Cn/playlist.m3u8?tid=MCDC2144535021445350&ct=19225&tsum=32569c846de798e3502372d35d00773f
+#EXTINF:-1 group-title="TAIWAN",DWh
+ttp://198.16.64.10:8278/KiX/playlist.m3u8?tid=MC7C1172544811725448&ct=19225&tsum=b8bc88b03797e354c5997adec13d939b
+#EXTINF:-1 group-title="TAIWAN",Euronews
+http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
+#EXTINF:-1 group-title="TAIWAN",HGTV
+http://198.16.64.10:8278/HGTV/playlist.m3u8?tid=MA6A4582634045826340&ct=19225&tsum=cc71b142aa9f87185b6496fc6c7724ba
+#EXTINF:-1 group-title="TAIWAN",HISTORY
+http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f
+#EXTINF:-1 group-title="TAIWAN",Itv2
+http://198.16.64.10:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
+#EXTINF:-1 group-title="TAIWAN",Itv1
+http://198.16.64.10:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
+#EXTINF:-1 group-title="TAIWAN",Music TV
+http://198.16.64.10:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
+#EXTINF:-1 group-title="TAIWAN",SkySportsArena
+http://198.16.64.10:8278/tiankongarena/playlist.m3u8?tid=MEFE3166774631667746&ct=19225&tsum=c372e0b47b96d4e0afa57a22e1a70f8f
+#EXTINF:-1 group-title="TAIWAN",SkyNews
+http://198.16.64.10:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
+#EXTINF:-1 group-title="TAIWAN",SkySportsCricket
+http://198.16.64.10:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:-1 group-title="TAIWAN",ASSP3
+http://198.16.64.10:8278/Assp3/playlist.m3u8?tid=MC0C7920827879208278&ct=19225&tsum=b76aa6813f86d2c2e2c69f4b8ab6f21e
+#EXTINF:-1 group-title="TAIWAN",ASSP1
+http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
+#EXTINF:-1 group-title="TAIWAN",AOD350
+http://198.16.64.10:8278/Aod350/playlist.m3u8?tid=MB1B2059094520590945&ct=19225&tsum=bcc2ef93d38a7d6692870a50d8754563
+#EXTINF:-1 group-title="TAIWAN",SPOTV
+http://198.16.64.10:8278/Spotvgp/playlist.m3u8?tid=MB6B7102612171026121&ct=19225&tsum=76aaf615979ef9dd5500182243df51ed
+#EXTINF:-1 group-title="TAIWAN",AEC
+http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f
+#EXTINF:-1 group-title="TAIWAN",Wlt
+http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+#EXTINF:-1 group-title="TAIWAN",Quanjia
+http://198.16.64.10:8278/Quanjia/playlist.m3u8?tid=MFFF3293542732935427&ct=19226&tsum=27c80d1bed9942e20443c39f523846fb
+#EXTINF:-1 group-title="TAIWAN",Shuangxing
+http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
+#EXTINF:-1 group-title="TAIWAN",Huahee
+http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
+#EXTINF:-1 group-title="TAIWAN",Xiaotaiyang
+http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MAFA1322751713227517&ct=19226&tsum=25cc9973f561f9d263360e1636e24902
+#EXTINF:-1 group-title="TAIWAN",Celestial
+http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
+#EXTINF:-1 group-title="TAIWAN",Celestial2
+http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
+#EXTINF:-1 group-title="TAIWAN",Xiaotaiyang
+http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
+#EXTINF:-1 group-title="TAIWAN",GoShop
+http://198.16.64.10:8278/Goshopch/playlist.m3u8?tid=ME8E6726672067266720&ct=19225&tsum=fc0c084625e23b3be63c14141de70916
+#EXTINF:-1 group-title="TAIWAN",TV8
+http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+#EXTINF:-1 group-title="TAIWAN",TVBS
+http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MF8F6036660760366607&ct=19225&tsum=28b93d22eed82973d85656ff0a6978c5
+T#EXTINF:-1 group-title="TAIWAN",VBS???
+http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 group-title="TAIWAN",??HD??
+http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1 group-title="TAIWAN",ANIMAX
+http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
+#EXTINF:-1 group-title="TAIWAN",ARENA2
+http://198.16.64.10:8278/Arena2/playlist.m3u8?tid=ME5E8459699984596999&ct=19225&tsum=b2683db779f0d06341b243e292480482
+#EXTINF:-1 group-title="TAIWAN",ARENA
+http://198.16.64.10:8278/Arena/playlist.m3u8?tid=MA4A2365848123658481&ct=19225&tsum=06e68996e319c7afbc368a66c862fe90
+#EXTINF:-1 group-title="TAIWAN",AXN
+http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa
+#EXTINF:-1 group-title="TAIWAN",AnimalPlanet
+http://198.16.64.10:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
+#EXTINF:-1 group-title="TAIWAN",Awani
+http://198.16.64.10:8278/Awani/playlist.m3u8?tid=MB3B5555835155558351&ct=19225&tsum=148341f2ac3dfc57fd8bb8b2f6e4d190
+#EXTINF:-1 group-title="TAIWAN",BBC1
+http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 group-title="TAIWAN",BBCLifestyle
+http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8?tid=MFCF4299842642998426&ct=19225&tsum=d9cac5a62e5c33574ac9c3e860e01623
+#EXTINF:-1 group-title="TAIWAN",BBC2
+http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1 group-title="TAIWAN",BERNAMA
+http://198.16.64.10:8278/Bernama/playlist.m3u8?tid=MC0C7405967074059670&ct=19225&tsum=5814e3a83adc97e751cba4715f5cad0a
+#EXTINF:-1 group-title="TAIWAN",BBCWORLDNEWS
+http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 group-title="TAIWAN",Bloomberg
+http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c
+#EXTINF:-1 group-title="TAIWAN",CBBC
+http://198.16.64.10:8278/cbbc_antik/playlist.m3u8?tid=MA4A9598485295984852&ct=19225&tsum=f014b03e65dd6b89eacae112ac675ef6
+#EXTINF:-1 group-title="TAIWAN",CBeebies
+http://198.16.64.10:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+#EXTINF:-1 group-title="TAIWAN",GolfChannel
+http://198.16.64.10:8278/Astrogolf/playlist.m3u8?tid=ME0E1209799712097997&ct=19225&tsum=b3a5a85654e70c92ffd9f877528cf62b
+#EXTINF:-1 group-title="TAIWAN",NATGEOWILD
+http://198.16.64.10:8278/Natgeowild/playlist.m3u8?tid=MB1B3860629238606292&ct=19225&tsum=315ac040bcdf094ccacd3f57a127d1bf
+#EXTINF:-1 group-title="TAIWAN",NATGEO
+http://198.16.64.10:8278/Natgeo/playlist.m3u8?tid=MFCF3878328938783289&ct=19225&tsum=d9b8d4ee66870f387dfdf70452237e40
+#EXTINF:-1 group-title="TAIWAN",Nickelodeon
+http://198.16.64.10:8278/Nickelodeon/playlist.m3u8?tid=MB0B3920856439208564&ct=19225&tsum=8dd558d6ca17cb0d8e9e4563c0787c69
+#EXTINF:-1 group-title="TAIWAN",NickJr
+http://198.16.64.10:8278/Nickjr/playlist.m3u8?tid=MA3A3266018432660184&ct=19225&tsum=ab65f24cfbcee7192bade2c6f4055102
+#EXTINF:-1 group-title="TAIWAN",One
+http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1 group-title="TAIWAN",Oh!k
+http://198.16.64.10:8278/Ohk/playlist.m3u8?tid=MF4F8315986583159865&ct=19225&tsum=ca2352c9f1852dd9395c2bd259afe372
+#EXTINF:-1 group-title="TAIWAN",WWE
+http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
+#EXTINF:-1 group-title="TAIWAN",TLC
+http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+#EXTINF:-1 group-title="TAIWAN",[CN]CCTV-1
+http://198.16.64.10:8278/cctv1/playlist.m3u8?tid=MB2B9826281798262817&ct=19225&tsum=c3e8198631cfa41940fb6aba4b1ae841
+#EXTINF:-1 group-title="TAIWAN",WarnerTV
+http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
+#EXTINF:-1 group-title="TAIWAN",AXNTW[1920*1080]
+http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.ibb.co/GF8yDXG/hbo-lean-paps.png" group-title="HBO (server 2)",HBO
+https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.ibb.co/NxB6PSw/hbofam-lean-paps.png" group-title="HBO (server 2)",HBO FAMILY
+https://anevia114.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.ibb.co/8MjDBKf/hbosig-lean-paps.png" group-title="HBO (server 2)",HBO SIGNATURE
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.ibb.co/30mFdgX/hbohits-lean-paps.png" group-title="HBO (server 2)",HBO HITS
+https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-logo="https://i.ibb.co/2kW9GJ4/cinemax-lean-paps.png" group-title="HBO (server 2)",CINEMAX
+https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="India MPD", Comedy Central  
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:comedy_central_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJWxJjZ.png" group-title="India MPD", Colors Infinity 
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors_infinity_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcLpjwD/logo.png" group-title="India MPD", Sony Pix 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lZfiSU5.png" group-title="India MPD", Sony Ten 1
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oPiGF4.png" group-title="India MPD", Sony Ten 2
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aI5VvPq.png" group-title="India MPD", Sony Ten 3
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
+
+ 
+
+
+<------ INDIA TEMP SPORTS -------->
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136615
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports Select 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136612
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports select 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",StarSports select 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136616
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 1 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136578
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="TEN 2 HD IN" tvg-logo="https://i.postimg.cc/Jn7VRpgT/INDIAshare-Ext-Group.jpg" group-title="INDIA TEMP SPORTS",TEN 2 HD IN
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136666
+
+
+
+<--------ADT------------>
+
+
+
+#EXTINF:1 group-title="ADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", Fashion Tv
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:1 group-title="ADT" tvg-logo="https://i.imgur.com/ikorRe8.png", A3BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 group-title="ADT" ,Hustler HD 
+http://193.33.240.8/hustler_hd/index.m3u8
+#EXTINF:-1 group-title="ADT" ,Penthouse GOLD
+http://80.24.75.92:5555/udp/239.111.4.1:1234
+#EXTINF:-1 group-title="ADT" ,Penthouse QUICKED
+http://80.24.75.92:5555/udp/239.111.4.2:1234
+#EXTINF:-1 group-title="ADT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/2560px-Dorcel_TV.svg.png", Dorcel TV HD
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 group-title="ADT", Private HD
+http://185.236.229.31:9981/play/a03p
+#EXTINF:-1 group-title="ADT", BRAZZERS
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1 group-title="ADT",Hustler HD
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 group-title="ADT" tvg-logo="http://totv.org/img/redlight-central.png", REDLIGHT HD
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:-1 group-title="ADT", Erox HD
+http://94.229.250.73:8008/play/a002
+
+
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV PARODY" tvg-logo="http://www.skytvpluzz.online:8000/images/042c828620caf5db8a703b605db6ae73.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV PARODY
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150614
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV TEENS" tvg-logo="http://www.skytvpluzz.online:8000/images/74a4964ecfbc39c889fa53879326b7a6.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV TEENS
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150615
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV LESBIAN" tvg-logo="http://www.skytvpluzz.online:8000/images/5c7f4695f55440a521e6a9d0f3383ec0.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV LESBIAN
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150616
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV COMPILATION" tvg-logo="http://www.skytvpluzz.online:8000/images/9f8a8ad5a321b92418a9db3b62f4c0e6.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV COMPILATION
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150617
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) HUSTLER TV" tvg-logo="http://www.skytvpluzz.online:8000/images/88af5551a36726f236a5abf918e8e30b.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) HUSTLER TV
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150618
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) PRIVATE TV" tvg-logo="http://www.skytvpluzz.online:8000/images/8387add282c7477f157468c69851dc7e.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) PRIVATE TV
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150619
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) REDLIGHT HD" tvg-logo="http://www.skytvpluzz.online:8000/images/191596c6537de1cc9519763a577819a4.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) REDLIGHT HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150620
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) BLUE HUSTLER" tvg-logo="http://www.skytvpluzz.online:8000/images/c0aa870b10d22680b1dc15809d8a7ffa.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) BLUE HUSTLER
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150621
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) PLAYBOY TV" tvg-logo="http://www.skytvpluzz.online:8000/images/82fd7241136bfc8aa281ef2e070315ae.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) PLAYBOY TV
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150622
+#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) VIVID RED" tvg-logo="http://www.skytvpluzz.online:8000/images/1954e891aed8b6db79cc8cc590b3ffe1.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) VIVID RED
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150623
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| MIAMI TV ADULT" tvg-logo="http://miarea.vip:8080/images/6ef3951ab0c30fb9990ea9f87ac615aa.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MIAMI TV ADULT
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150624
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| BANG BUS HD" tvg-logo="" group-title="ADULTO SIN PUBLICIDA",ADULT| BANG BUS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150625
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| MONEY TALK HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MONEY TALK HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150627
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| DANCING BEAR HD" tvg-logo="http://iptvglobal.site:25461/images/5ab52cce2dd916ceded6b270b6693ed6.png" group-title="ADULTO SIN PUBLICIDA",ADULT| DANCING BEAR HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150633
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| SEXTREME HD" tvg-logo="http://iptvglobal.site:25461/images/ed8fb69ad0b5b66af67fb00d9cbcf2c8.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SEXTREME HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150634
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| XXL HD" tvg-logo="http://iptvglobal.site:25461/images/fc37dc2ce166bb9a1c3d2f2765076683.png" group-title="ADULTO SIN PUBLICIDA",ADULT| XXL HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150635
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| PRIVE TV HD" tvg-logo="https://iptv.live/images/logo/channel/crops/5f41af4442b2ef10ace27cc1da1f6180.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PRIVE TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150636
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| DORCEL XXX HD" tvg-logo="http://iptvglobal.site:25461/images/f7ec3c5d48ee4f6fc99bb88800c06bac.png" group-title="ADULTO SIN PUBLICIDA",ADULT| DORCEL XXX HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150637
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXTASIS HD" tvg-logo="http://iptvglobal.site:25461/images/836af3bb45e14ffd0f7bd42128b04025.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXTASIS HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150638
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| SECRET CIRCLE TV HD" tvg-logo="https://fanart.tv/fanart/tv/248884/hdtvlogo/the-secret-circle-506b06b58b7a0.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SECRET CIRCLE TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150639
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| FRENCH LOVER XXX" tvg-logo="http://iptvglobal.site:25461/images/6a8222195a58e1e5a9a13e4304ffad78.png" group-title="ADULTO SIN PUBLICIDA",ADULT| FRENCH LOVER XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150640
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| MILF TV" tvg-logo="http://iptvglobal.site:25461/images/c084fe4e300c918f6f7415f68294934e.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MILF TV
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150641
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| RED XXX" tvg-logo="https://cdn.clipart.email/52f0380e59cb121d92677e4171ca35ff_18-logo-png-3-png-image_796-796.png" group-title="ADULTO SIN PUBLICIDA",ADULT| RED XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150642
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXTREME XXX" tvg-logo="http://iptvglobal.site:25461/images/1792f5f05fb19ec4f0970808a798b0fd.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXTREME XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150643
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| HOT PLEASURE HD" tvg-logo="http://iptvglobal.site:25461/images/2df98782a82b59862d2ca68f39d5624b.png" group-title="ADULTO SIN PUBLICIDA",ADULT| HOT PLEASURE HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150644
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| PLAYHOUSE XXX" tvg-logo="https://playhousewindsor.com/wp-content/uploads/2015/08/playhouse-logo.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PLAYHOUSE XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150645
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| NET XXX" tvg-logo="http://iptvglobal.site:25461/images/4fc4d4beeab9520b279aa9179be8eaa0.png" group-title="ADULTO SIN PUBLICIDA",ADULT| NET XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150646
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| BANGERZ XXX" tvg-logo="http://iptvglobal.site:25461/images/c5db3fe60271138224d4f6c2f49d328d.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BANGERZ XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150647
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| GANGBANG HD" tvg-logo="https://mediav.porn.com/assets/logos/channels/0/1/1641/200.png" group-title="ADULTO SIN PUBLICIDA",ADULT| GANGBANG HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150677
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| CZECH STREET" tvg-logo="http://iptvglobal.site:25461/images/00651480c314f057c0ab5987fff91df5.png" group-title="ADULTO SIN PUBLICIDA",ADULT| CZECH STREET
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150678
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXXXOTICA TV HD" tvg-logo="http://iptvglobal.site:25461/images/2ef95bc7aa5e4401cb9a24e7f7eb1771.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXXXOTICA TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150680
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| TABOO XXX" tvg-logo="http://iptvglobal.site:25461/images/7866b171451feaba215836b9b2d26a5a.png" group-title="ADULTO SIN PUBLICIDA",ADULT| TABOO XXX
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150681
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| FAP TV TEENS" tvg-logo="http://iptvglobal.site:25461/images/10dfd97fbf19cc31304dc014483cb86c.png" group-title="ADULTO SIN PUBLICIDA",ADULT| FAP TV TEENS
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150683
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| BRAZZER TV HD" tvg-logo="http://iptvglobal.site:25461/images/60acc795016678f79533fb39f0917092.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BRAZZER TV HD
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150684
+#EXTINF:-1 tvg-id="" tvg-name="ADULT| VENUS" tvg-logo="http://iptvglobal.site:25461/images/56df320157aef65231f79b0c1d2a2ad7.png" group-title="ADULTO SIN PUBLICIDA",ADULT| VENUS
+http://iptvglobal.site:25461/LionTv/r1942G22hz/150686
