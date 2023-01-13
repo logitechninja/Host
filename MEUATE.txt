@@ -5,6 +5,9 @@
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CNC3
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TV6.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",TTT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8
 
@@ -17,12 +20,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/pla
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TV6.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",Synergy
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
-
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG",TTEN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
@@ -246,7 +245,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/mtv.base.ze.m3u8
 
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/VH1.us.png",VH1 (East) US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:VH1.smil/playlist.m3u8
 
@@ -313,9 +311,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playli
 
 #EXTINF:-1 group-title="COOKING CHANNEL" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
-
-
-
 
 				<--------Bollywood------------>
 
@@ -432,7 +427,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/play
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX2.png",Sports Max 2 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
-
 
 				<--------USA------------>
 
