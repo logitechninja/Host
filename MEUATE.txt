@@ -319,12 +319,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/c
 
 				<--------Bollywood------------>
 
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/UK/INDIA/B4UMUSIC.PNG",B4U Music
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
-
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/UK/INDIA/B4UMOVIES.png",B4U Movies
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tt-ietv-channel-1.jpg",CAR| IETV HFD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 
@@ -417,9 +411,6 @@ https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.varie
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety2
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.2.ze.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY SPORTS NEWS
-http://conceal.cyou:80/Chunka/vma7Xom3No/4579
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS",BT SPORTS1
 https://tvnow.best/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/bt.sport.1.uk.m3u8
