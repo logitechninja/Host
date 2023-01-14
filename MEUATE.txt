@@ -511,9 +511,6 @@ http://iptvglobal.site:25461/LionTv/r1942G22hz/87970
 #EXTINF:-1 tvg-id="" tvg-name="USA| BOOMERANG HD" tvg-logo="https://i.picasion.com/pic92/62b33b6bb49428d57349ceee2bb424b5.gif" group-title="USA (HD)",USA| BOOMERANG HD
 http://iptvglobal.site:25461/LionTv/r1942G22hz/87971
 
-#EXTINF:-1 tvg-id="" tvg-name="USA| BABY TV HD" tvg-logo="https://i.picasion.com/pic92/285258ac0eafdfb930dfef47cbcd8860.gif" group-title="USA (HD)",USA| BABY TV HD
-http://iptvglobal.site:25461/LionTv/r1942G22hz/87972
-
 #EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="https://i.picasion.com/pic92/c97ddae425bdcb2b1a69d1a8ee87da4a.gif" group-title="USA (HD)",USA | USA Network
 http://iptvglobal.site:25461/LionTv/r1942G22hz/96384
 
