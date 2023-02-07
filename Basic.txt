@@ -9,10 +9,28 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:0 CUID="4" tvg-name="Carib: Synergy" tvg-id="synergytvtrinidad.tt" tvg-logo="https://logo.iptveditor.com/synergytvtrinidad.png" group-title="ENTERTAINMENT",Carib: Synergy
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:0 CUID="8" tvg-name="carib:IBN TT" tvg-id="caribibn.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png" group-title="ENTERTAINMENT",carib:IBN TT
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
 #EXTINF:0 CUID="5" tvg-name="TTEN" tvg-id="ttentrinidad.tt" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR0ZW50di5hcHBfc2NyZWVuXzBfMTU2OTk0NjY2Nl8wNDY/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTERTAINMENT",TTEN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/playlist.m3u8
 #EXTINF:0 CUID="6" tvg-name="Carib: Gayelle The Caribbean" tvg-id="gayelle.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Gayelle_%28logo%29.jpg" group-title="ENTERTAINMENT",Carib: Gayelle The Caribbean
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b2160000.m3u8
+#EXTINF:0 CUID="29" tvg-name="TEMPO" tvg-id="tempo.us" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg" group-title="ENTERTAINMENT",TEMPO
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
+#EXTINF:0 CUID="7" tvg-name="Carib TRINITY (FL)" tvg-id="tbn.trinity.broadcasting.network.east.us" tvg-logo="https://logo.iptveditor.com/trinitytv.png" group-title="ENTERTAINMENT",Carib TRINITY (FL)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
+#EXTINF:0 CUID="9" tvg-name="Religious: EWTN" tvg-id="ewtn.latin.america.us" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/89/fa/d7/89fad7fe-17e5-894f-8d3f-7de0a2c21469/AppIcon-1x_U007emarketing-5-0-85-220.png/1200x630wa.png" group-title="ENTERTAINMENT",Religious: EWTN
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
+#EXTINF:0 CUID="10" tvg-name="Jaagriti" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg" group-title="ENTERTAINMENT",Jaagriti
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
+#EXTINF:0 CUID="11" tvg-name="Religious: TBN" tvg-id="tbn.trinity.broadcasting.network.east.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png" group-title="ENTERTAINMENT",Religious: TBN
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
+#EXTINF:0 CUID="12" tvg-name="CAR: 3ABN | SD" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="ENTERTAINMENT",CAR: 3ABN | SD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
+#EXTINF:0 CUID="102" tvg-name="POSI TV" tvg-id="positivtv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png" group-title="ENTERTAINMENT",POSI TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
+#EXTINF:0 CUID="13" tvg-name="USA: CBN News International" tvg-id="cnninternational.us" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png" group-title="ENTERTAINMENT",USA: CBN News International
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:0 CUID="16" tvg-name="USA | A&E" tvg-id="a&e.us" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="ENTERTAINMENT",USA | A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:0 CUID="19" tvg-name="USA: AXN" tvg-id="axn.co" tvg-logo="https://static.epg.best/pt/AXN.pt.png" group-title="ENTERTAINMENT",USA: AXN
@@ -155,26 +173,22 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smi
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:0 CUID="90" tvg-name="Love Nature" tvg-id="lovenature.us" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg" group-title="ENTERTAINMENT",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 CUID="91" tvg-name="Love Nature 4K" tvg-id="lovenature.us" tvg-logo="https://lh3.googleusercontent.com/WQ2ho9IeNMbXvlWlPlbjGFPJML3wXo3BZmWGo-JBnOSFz1Ham13Dv3PsDUcTzm_AHDpZ" group-title="ENTERTAINMENT",Love Nature 4K
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 CUID="103" tvg-name="REEL" tvg-logo="https://static.epg.best/us/ReelzChannel.us.png" group-title="ENTERTAINMENT",REEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
+#EXTINF:0 CUID="94" tvg-name="USA | MTV" tvg-id="mtv.us" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="ENTERTAINMENT",USA | MTV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:0 CUID="131" tvg-name="IMPACT Wrestling" tvg-id="impactwrestling.us" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="ENTERTAINMENT",IMPACT Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:0 CUID="132" tvg-name="RADIO ACTIVA" tvg-logo="Logo N/A" group-title="ENTERTAINMENT",RADIO ACTIVA
 http://streamserver.ml:7002/stream/1/
 #EXTINF:0 CUID="133" tvg-name="RADIO" tvg-logo="Logo N/A" group-title="ENTERTAINMENT",RADIO
 https://n06.radiojar.com/6pz06e8nv4zuv
-#EXTINF:0 CUID="94" tvg-name="USA | MTV" tvg-id="mtv.us" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="ENTERTAINMENT",USA | MTV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:0 CUID="66" tvg-name="USA | GRIT" tvg-id="grit.us" tvg-logo="https://static.epg.best/us/Grit.us.png" group-title="ENTERTAINMENT",USA | GRIT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:GRIT.smil/playlist.m3u8
 #EXTINF:0 CUID="28" tvg-name="Mello TV" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg" group-title="ENTERTAINMENT",Mello TV
 https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
 #EXTINF:0 CUID="84" tvg-name="MARTIA ART" tvg-logo="https://comps.gograph.com/martial-arts-logo-illustration_gg101283819.jpg" group-title="ENTERTAINMENT",MARTIA ART
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc770&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:0 CUID="29" tvg-name="TEMPO" tvg-id="tempo.us" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg" group-title="ENTERTAINMENT",TEMPO
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/chunklist_b1000000.m3u8
 #EXTINF:0 CUID="15" tvg-name="US: ABC EAST" tvg-logo="https://logo.iptveditor.com/abc.png" group-title="NEWS",US: ABC EAST
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:0 CUID="22" tvg-name="USA: BBC World News" tvg-id="bbcworldnews.us" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",USA: BBC World News
@@ -221,22 +235,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NICK_JR.smil/playlist
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:0 CUID="104" tvg-name="SMILE" tvg-id="smile.us" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png" group-title="KIDS",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
-#EXTINF:0 CUID="7" tvg-name="Carib TRINITY (FL)" tvg-id="tbn.trinity.broadcasting.network.east.us" tvg-logo="https://logo.iptveditor.com/trinitytv.png" group-title="RELIGION",Carib TRINITY (FL)
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
-#EXTINF:0 CUID="8" tvg-name="carib:IBN TT" tvg-id="caribibn.tt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png" group-title="RELIGION",carib:IBN TT
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/playlist.m3u8
-#EXTINF:0 CUID="9" tvg-name="Religious: EWTN" tvg-id="ewtn.latin.america.us" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/89/fa/d7/89fad7fe-17e5-894f-8d3f-7de0a2c21469/AppIcon-1x_U007emarketing-5-0-85-220.png/1200x630wa.png" group-title="RELIGION",Religious: EWTN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
-#EXTINF:0 CUID="10" tvg-name="Jaagriti" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg" group-title="RELIGION",Jaagriti
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
-#EXTINF:0 CUID="11" tvg-name="Religious: TBN" tvg-id="tbn.trinity.broadcasting.network.east.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png" group-title="RELIGION",Religious: TBN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
-#EXTINF:0 CUID="12" tvg-name="CAR: 3ABN | SD" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="RELIGION",CAR: 3ABN | SD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
-#EXTINF:0 CUID="13" tvg-name="USA: CBN News International" tvg-id="cnninternational.us" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png" group-title="RELIGION",USA: CBN News International
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:0 CUID="102" tvg-name="POSI TV" tvg-id="positivtv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png" group-title="RELIGION",POSI TV
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:0 CUID="14" tvg-name="IN: Aapka Colors (Hindi) (US)" tvg-id="aapkacolors.us" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png" group-title="Bollywood",IN: Aapka Colors (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:AAPKA_COLORS.smil/chunklist_b2500000.m3u8
 #EXTINF:0 CUID="33" tvg-name="IN: B4U Music (Hindi) (US)" tvg-id="b4umusic.us" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="Bollywood",IN: B4U Music (Hindi) (US)
@@ -267,4 +265,3 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/pla
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:0 CUID="134" tvg-name="Sky Sports NFL FHD UK" tvg-id="SkySportsAction.uk" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg" group-title="SPORTS",Sky Sports NFL FHD UK
 http://channels227070.clientportal.link/live/PHajR4o7/DKB4V60/14653.m3u8
-
