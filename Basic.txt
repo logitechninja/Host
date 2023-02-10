@@ -142,6 +142,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklis
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:0 CUID="108" tvg-name="USA | SYFY" tvg-id="syfy.us" tvg-logo="https://static.epg.best/us/Syfy.us.png" group-title="ENTERTAINMENT",USA | SYFY
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
+#EXTINF:0 CUID="109" tvg-name="USA | TRAVEL CHANNEL" tvg-id="travelchannel.us" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" group-title="ENTERTAINMENT",USA | TRAVEL CHANNEL
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:0 CUID="110" tvg-name="USA | TNT" tvg-id="tnt.us" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="ENTERTAINMENT",USA | TNT
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:0 CUID="111" tvg-name="TNT SERIES" tvg-id="tntseries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Tnt_series.png" group-title="ENTERTAINMENT",TNT SERIES
@@ -170,8 +172,6 @@ https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:0 CUID="17" tvg-name="USA | ANIMAL PLANET" tvg-id="animalplanet.us" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="ENTERTAINMENT",USA | ANIMAL PLANET
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
-#EXTINF:0 CUID="90" tvg-name="Love Nature" tvg-id="lovenature.us" tvg-logo="https://www.freelogovector.com/wp-content/uploads/2017/06/23%20-%20PNG%20love%20nature%20copy.jpg" group-title="ENTERTAINMENT",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 CUID="94" tvg-name="USA | MTV" tvg-id="mtv.us" tvg-logo="https://static.epg.best/us/MTV.us.png" group-title="ENTERTAINMENT",USA | MTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MTV.smil/playlist.m3u8
 #EXTINF:0 CUID="131" tvg-name="IMPACT Wrestling" tvg-id="impactwrestling.us" tvg-logo="https://i.imgur.com/w3eLKLw.png" group-title="ENTERTAINMENT",IMPACT Wrestling
