@@ -236,7 +236,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_b
 #EXTINF:0 CUID="104" tvg-name="SMILE" tvg-id="smile.us" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png" group-title="KIDS",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
 #EXTINF:0 CUID="14" tvg-name="IN: Aapka Colors (Hindi) (US)" tvg-id="aapkacolors.us" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png" group-title="Bollywood",IN: Aapka Colors (Hindi) (US)
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:AAPKA_COLORS.smil/chunklist_b2500000.m3u8
+http://ip365.cx:900/3160760056/1016703067/187027
 #EXTINF:0 CUID="33" tvg-name="IN: B4U Music (Hindi) (US)" tvg-id="b4umusic.us" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="Bollywood",IN: B4U Music (Hindi) (US)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:0 CUID="34" tvg-name="IN: B4U Movies (Hindi) (US)" tvg-id="b4umovies.us" tvg-logo="https://logo.iptveditor.com/b4movies.png" group-title="Bollywood",IN: B4U Movies (Hindi) (US)
