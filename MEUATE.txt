@@ -100,7 +100,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
 #EXTINF:0 CUID="81" tvg-name="ION" tvg-id="ion.central.us" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg" group-title="ENTERTAINMENT",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
-#EXTINF:0 CUID="414" tvg-name="ION Mystery" tvg-logo="https://logo.iptveditor.com/ion.png" group-title="ENTERTAINMENT",ION Mystery
+#EXTINF:0 CUID="414" tvg-name="ION Mystery" tvg-id="ionmystery.us" tvg-logo="https://logo.iptveditor.com/ion.png" group-title="ENTERTAINMENT",ION Mystery
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlist.m3u8
 #EXTINF:0 CUID="84" tvg-name="SPACE HD" tvg-id="space.us" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="ENTERTAINMENT",SPACE HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
@@ -428,10 +428,12 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chu
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:0 CUID="277" tvg-name="B4U Music" tvg-id="b4umusic.uk" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="Bollywood",B4U Music
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:0 CUID="406" tvg-name="IN: Aapka Colors (Hindi) (US)" tvg-id="aapkacolors.us" tvg-logo="https://sc.dish.com/shared/images/station-logos/APCLR.png" group-title="Bollywood",IN: Aapka Colors (Hindi) (US)
+#EXTINF:0 CUID="406" tvg-name="IN: Aapka Colors (Hindi) (US)" tvg-id="aapkacolors.us" tvg-logo="https://logo.iptveditor.com/aapkacolors.png" group-title="Bollywood",IN: Aapka Colors (Hindi) (US)
 http://ip365.cx:900/3160760056/1016703067/187027
 #EXTINF:0 CUID="411" tvg-name="Carib: ZEE TV (Asian)" tvg-id="zeetvasiapacific.sg" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="Bollywood",Carib: ZEE TV (Asian)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
+#EXTINF:0 CUID="417" tvg-name="Zee World" tvg-id="world.us" tvg-logo="https://logo.iptveditor.com/zeeworld.png" group-title="Bollywood",Zee World
+http://ip365.cx:900/3160760056/5CD5B7DC/400318022
 #EXTINF:0 CUID="212" tvg-name="*Retro Plus TV" tvg-id="stingray.retro.ca" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png" group-title="Music",*Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:0 CUID="213" tvg-name="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="Music",V2BEAT
