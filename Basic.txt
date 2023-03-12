@@ -245,7 +245,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chu
 #EXTINF:0 CUID="122" tvg-name="Carib: ZEE TV (Asian)" tvg-id="zeetvasiapacific.sg" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="Bollywood",Carib: ZEE TV (Asian)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:0 CUID="136" tvg-name="Zee World " tvg-id="world.us" tvg-logo="https://logo.iptveditor.com/zeeworld.png" group-title="Bollywood",Zee World 
-http://ip365.cx:900/3160760056/1016703067/400318022
+http://ip365.cx:900/3160760056/5CD5B7DC/400318022
 #EXTINF:0 CUID="123" tvg-name="SPORTS: BEIN USA" tvg-id="beinsports.us" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS",SPORTS: BEIN USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:0 CUID="124" tvg-name="ESPN" tvg-id="espn.us" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="SPORTS",ESPN
