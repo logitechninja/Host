@@ -63,7 +63,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCO
 #EXTINF:0 CUID="51" tvg-name="Discovery Turbo UK" tvg-id="discovery.turbo.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="ENTERTAINMENT",Discovery Turbo UK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:0 CUID="222" tvg-name="Motor Trend" tvg-id="motortrend.us" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" group-title="ENTERTAINMENT",Motor Trend
-http://ky-iptv.com:80/millerk/millerk/175834
+http://ky-iptv.com:80/deshazior/deshazior/175834
 #EXTINF:0 CUID="143" tvg-name="Motorvision Tv" tvg-id="motorvisiontv.us" tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="ENTERTAINMENT",Motorvision Tv
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=30500&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0 CUID="55" tvg-name="Freeform" tvg-id="freeform.east.us" tvg-logo="https://static.epg.best/us/Freeform.us.png" group-title="ENTERTAINMENT",Freeform
@@ -83,7 +83,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0 CUID="72" tvg-name="FYI (East)" tvg-id="fyi.usa.eastern.us" tvg-logo="https://static.epg.best/us/FYI.us.png" group-title="ENTERTAINMENT",FYI (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:0 CUID="74" tvg-name="Game Show Network (East)" tvg-id="game.show.network.east.ca" tvg-logo="https://static.epg.best/us/GameShowNetwork.us.png" group-title="ENTERTAINMENT",Game Show Network (East)
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m3u8
+http://ky-iptv.com:80/deshazior/deshazior/175863
 #EXTINF:0 CUID="75" tvg-name="Game Show Central" tvg-id="gameshownetworkwest.us" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="ENTERTAINMENT",Game Show Central
 https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?
 #EXTINF:0 CUID="333" tvg-name="USA | HALLMARK CHANNEL" tvg-id="hallmarkchannel.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png" group-title="ENTERTAINMENT",USA | HALLMARK CHANNEL
@@ -145,7 +145,7 @@ http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u83
 #EXTINF:0 CUID="116" tvg-name="Gusto TV" tvg-id="gusto.us" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" group-title="ENTERTAINMENT",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
 #EXTINF:0 CUID="118" tvg-name="FOOD NETWORK" tvg-id="food.network.usa.eastern.us" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="ENTERTAINMENT",FOOD NETWORK
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
+http://ky-iptv.com:80/deshazior/deshazior/175847
 #EXTINF:0 CUID="117" tvg-name="Cooking Channel US" tvg-id="the.cooking.channel.us" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png" group-title="ENTERTAINMENT",Cooking Channel US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:0 CUID="214" tvg-name="Web TV Music" tvg-id="mtv.music.uk" group-title="ENTERTAINMENT",Web TV Music
