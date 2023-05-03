@@ -17,7 +17,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist
 #EXTINF:0 CUID="296" tvg-name="TEMPO" tvg-id="tempo.us" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg" group-title="ENTERTAINMENT",TEMPO
 http://ys-users.com:8080/christa/christa/435383
 #EXTINF:0 CUID="7" tvg-name="Synergy" tvg-id="synergytvtrinidad.tt" tvg-logo="https://logo.iptveditor.com/synergytvtrinidad.png" group-title="ENTERTAINMENT",Synergy
-http://iptv365.xyz:900/3160760056/5CD5B7DC/76411
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:0 CUID="302" tvg-name="POSI TV" tvg-id="positivtv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png" group-title="ENTERTAINMENT",POSI TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playlist.m3u8
 #EXTINF:0 CUID="8" tvg-name="TTEN" tvg-id="ttentrinidad.tt" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/TTENTRINIDAD.PNG" group-title="ENTERTAINMENT",TTEN
@@ -44,7 +44,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:BET.smil/playlist.m3u8
 #EXTINF:0 CUID="24" tvg-name="byu" tvg-id="byutv.us" tvg-logo="https://cloudimages.broadwayworld.com/columnpic10/680E249A3D1-E3CA-237F-4D3CC456586AFA37.jpg" group-title="ENTERTAINMENT",byu
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8
-#EXTINF:0 CUID="25" tvg-name="CINEMAX" tvg-id="cinemax.us" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="ENTERTAINMENT",CINEMAX
+#EXTINF:0 CUID="25" tvg-name="CINEMAX" tvg-id="cinemaxspanish.us" tvg-logo="https://static.epg.best/us/Cinemax.us.png" group-title="ENTERTAINMENT",CINEMAX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:0 CUID="27" tvg-name="E! Entertainment (Eest)" tvg-id="e!entertainment.us" tvg-logo="https://static.epg.best/us/EEntertainment.us.png" group-title="ENTERTAINMENT",E! Entertainment (Eest)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
@@ -324,7 +324,7 @@ https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.varie
 http://protocol.solanaflix.com:8080/play/RfTvONspMr4qPp2uZM0-aw2LdRP9vcR0OrM7F8_jWTR-3sW7r9kEb75B-Ao-DNpW
 #EXTINF:0 CUID="142" tvg-name="Supersports Action" tvg-id="supersportaction.za" tvg-logo="https://logo.iptveditor.com/supersportaction.png" group-title="SPORTS ",Supersports Action
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/ss.action.ze.m3u8
-#EXTINF:0 CUID="137" tvg-name="WWE Network" tvg-id="wwe.network.ca" tvg-logo="https://i.postimg.cc/j5bmcQDn/wwnet.png" group-title="SPORTS ",WWE Network
+#EXTINF:0 CUID="137" tvg-name="WWE Network" tvg-id="wwenetwork.ca" tvg-logo="https://i.postimg.cc/j5bmcQDn/wwnet.png" group-title="SPORTS ",WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 CUID="131" tvg-name="Willow Cricket" tvg-id="willow.cricket.us" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SPORTS ",Willow Cricket
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
