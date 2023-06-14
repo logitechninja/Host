@@ -155,7 +155,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1
 #EXTINF:0 CUID="172" tvg-name="USA| FXX HD" tvg-id="fxx.us" tvg-logo="https://i.picasion.com/pic92/adede37edc0c7aafc43d02d7f2fe19d5.gif" group-title="ENTERTAINMENT",USA| FXX HD
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:0 CUID="211" tvg-name="🇺🇸US: BOOMERANG" tvg-id="boomerang.us" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="ENTERTAINMENT",🇺🇸US: BOOMERANG
-http://tvstarlife.com:25461/live/simon/simon/189.m3u8
+http://tvstarlife.com:25461/live/cesar/cesar123/189.m3u8
 #EXTINF:0 CUID="40" tvg-name="BBC 4" tvg-id="bbc4.uk" tvg-logo="https://logo.iptveditor.com/bbc4.png" group-title="ENTERTAINMENT",BBC 4
 http://181.233.124.38:80/doctor1/doctor2/1858077
 #EXTINF:0 CUID="39" tvg-name="BBC 2" tvg-id="bbc2.uk" tvg-logo="https://logo.iptveditor.com/bbc2.png" group-title="ENTERTAINMENT",BBC 2
@@ -225,7 +225,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/
 #EXTINF:0 CUID="106" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="ONLY MOVIES",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:0 CUID="107" tvg-name="HBO PLUS" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="ONLY MOVIES",HBO PLUS
-http://iptv365.xyz:900/3160760056/5CD5B7DC/376189
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:0 CUID="109" tvg-name="HBO" tvg-logo="https://i.ibb.co/K2GWvrb/hbo-us.png" group-title="ONLY MOVIES",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
 #EXTINF:0 CUID="110" tvg-name="HBO XTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="ONLY MOVIES",HBO XTREME
@@ -233,65 +233,43 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/play
 #EXTINF:0 CUID="111" tvg-name="HBO MUDI" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="ONLY MOVIES",HBO MUDI
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0 CUID="225" tvg-name="Showtime Next" tvg-id="showtimenext.us" tvg-logo="https://logo.iptveditor.com/showtimenext.png" group-title="ONLY MOVIES",Showtime Next
-http://ip365.cx:900/0324429672/3273888951/253115
+http://181.233.124.38:80/Roberta1/Roberta2/176061
 #EXTINF:0 CUID="226" tvg-name="Showtime Extreme" tvg-id="showtimeextreme.us" tvg-logo="https://logo.iptveditor.com/showtimeextreme.png" group-title="ONLY MOVIES",Showtime Extreme
-http://ip365.cx:900/0324429672/3273888951/181562
+http://181.233.124.38:80/Roberta1/Roberta2/176059
 #EXTINF:0 CUID="227" tvg-name="Showtime Family" tvg-id="showtimefamily.us" tvg-logo="https://logo.iptveditor.com/showtimefamily.png" group-title="ONLY MOVIES",Showtime Family
-http://ip365.cx:900/0324429672/3273888951/253114
+http://181.233.124.38:80/Roberta1/Roberta2/176060
 #EXTINF:0 CUID="228" tvg-name="Showtime Women" tvg-id="showtimewomen.us" tvg-logo="https://logo.iptveditor.com/showtimewomen.png" group-title="ONLY MOVIES",Showtime Women
-http://ip365.cx:900/0324429672/3273888951/253116
-#EXTINF:0 CUID="413" tvg-name="Dove" tvg-id="dove.us" tvg-logo="https://logo.iptveditor.com/dove.png" group-title="ONLY MOVIES",Dove
-http://ip365.cx:900/0324429672/3273888951/181554
-#EXTINF:0 CUID="229" tvg-name="Starz Encore Black" tvg-id="starzencoreblack.us" tvg-logo="https://logo.iptveditor.com/starzencoreblack.png" group-title="ONLY MOVIES",Starz Encore Black
-http://ip365.cx:900/0324429672/3273888951/181574
+http://181.233.124.38:80/Roberta1/Roberta2/176065
 #EXTINF:0 CUID="230" tvg-name="Starz Cinema" tvg-id="starzcinema.us" tvg-logo="https://logo.iptveditor.com/starzcinema.png" group-title="ONLY MOVIES",Starz Cinema
-http://ip365.cx:900/0324429672/3273888951/170173
+http://181.233.124.38:80/Roberta1/Roberta2/176068
 #EXTINF:0 CUID="231" tvg-name="Starz Comedy" tvg-id="starzcomedy.us" tvg-logo="https://logo.iptveditor.com/starzcomedy.png" group-title="ONLY MOVIES",Starz Comedy
-http://ip365.cx:900/0324429672/3273888951/13625
+http://181.233.124.38:80/Roberta1/Roberta2/176069
 #EXTINF:0 CUID="232" tvg-name="Starz East" tvg-id="starz.us" tvg-logo="https://logo.iptveditor.com/starz.png" group-title="ONLY MOVIES",Starz East
-http://ip365.cx:900/0324429672/3273888951/181568
-#EXTINF:0 CUID="233" tvg-name="Starz Edge" tvg-id="starzedge.us" tvg-logo="https://logo.iptveditor.com/starzedge.png" group-title="ONLY MOVIES",Starz Edge
-http://ip365.cx:900/0324429672/3273888951/181566
-#EXTINF:0 CUID="234" tvg-name="Starz Encore" tvg-id="starzencore.us" tvg-logo="https://logo.iptveditor.com/starzencore.png" group-title="ONLY MOVIES",Starz Encore
-http://ip365.cx:900/0324429672/3273888951/400230192
+http://181.233.124.38:80/Roberta1/Roberta2/176071
 #EXTINF:0 CUID="235" tvg-name="Starz Encore Action" tvg-id="starzencoreaction.us" tvg-logo="https://logo.iptveditor.com/starzencoreaction.png" group-title="ONLY MOVIES",Starz Encore Action
-http://ip365.cx:900/0324429672/3273888951/400230202
+http://181.233.124.38:80/Roberta1/Roberta2/176073
+#EXTINF:0 CUID="229" tvg-name="Starz Encore Black" tvg-id="starzencoreblack.us" tvg-logo="https://logo.iptveditor.com/starzencoreblack.png" group-title="ONLY MOVIES",Starz Encore Black
+http://181.233.124.38:80/Roberta1/Roberta2/176074
 #EXTINF:0 CUID="236" tvg-name="Starz Encore Classics" tvg-id="starzencoreclassics.us" tvg-logo="https://logo.iptveditor.com/starzencoreclassic.png" group-title="ONLY MOVIES",Starz Encore Classics
-http://ip365.cx:900/0324429672/3273888951/181573
+http://181.233.124.38:80/Roberta1/Roberta2/176075
+#EXTINF:0 CUID="234" tvg-name="Starz Encore East" tvg-id="starzencore.us" tvg-logo="https://logo.iptveditor.com/starzencore.png" group-title="ONLY MOVIES",Starz Encore East
+http://181.233.124.38:80/Roberta1/Roberta2/176076
+#EXTINF:0 CUID="233" tvg-name="Starz Edge" tvg-id="starzedge.us" tvg-logo="https://logo.iptveditor.com/starzedge.png" group-title="ONLY MOVIES",Starz Edge
+http://181.233.124.38:80/Roberta1/Roberta2/176077
 #EXTINF:0 CUID="237" tvg-name="Starz Encore Family" tvg-id="starzencorefamily.us" tvg-logo="https://logo.iptveditor.com/starzencorefamily.png" group-title="ONLY MOVIES",Starz Encore Family
-http://ip365.cx:900/0324429672/3273888951/181572
+http://181.233.124.38:80/Roberta1/Roberta2/176078
 #EXTINF:0 CUID="238" tvg-name="Starz Encore Suspense " tvg-id="starzencoresuspense.us" tvg-logo="https://logo.iptveditor.com/starzencoresuspense.png" group-title="ONLY MOVIES",Starz Encore Suspense 
-http://tvstarlife.com:25461/live/cesar/cesar123/1642.m3u8
+http://181.233.124.38:80/Roberta1/Roberta2/176079
 #EXTINF:0 CUID="239" tvg-name="Starz Encore West" tvg-id="starzencorewest.us" tvg-logo="https://logo.iptveditor.com/starzencorewest.png" group-title="ONLY MOVIES",Starz Encore West
-http://ip365.cx:900/0324429672/3273888951/400230192
+http://181.233.124.38:80/Roberta1/Roberta2/176080
 #EXTINF:0 CUID="240" tvg-name="Starz Encore Westerns" tvg-id="starzencorewesterns.us" tvg-logo="https://logo.iptveditor.com/starzencorewesterns.png" group-title="ONLY MOVIES",Starz Encore Westerns
-http://ip365.cx:900/0324429672/3273888951/13628
+http://181.233.124.38:80/Roberta1/Roberta2/176081
 #EXTINF:0 CUID="241" tvg-name="Starz In Black" tvg-id="starzinblack.us" tvg-logo="https://logo.iptveditor.com/starzblack.png" group-title="ONLY MOVIES",Starz In Black
-http://ip365.cx:900/0324429672/3273888951/181574
+http://181.233.124.38:80/Roberta1/Roberta2/176082
 #EXTINF:0 CUID="242" tvg-name="Starz Kids & Family" tvg-id="starzkids&family.us" tvg-logo="https://logo.iptveditor.com/starzkidsfamily.png" group-title="ONLY MOVIES",Starz Kids & Family
-http://ip365.cx:900/0324429672/3273888951/181572
+http://181.233.124.38:80/Roberta1/Roberta2/176083
 #EXTINF:0 CUID="243" tvg-name="Starz West" tvg-id="starzwest.us" tvg-logo="https://logo.iptveditor.com/starzwest.png" group-title="ONLY MOVIES",Starz West
-http://ip365.cx:900/0324429672/3273888951/400230191
-#EXTINF:0 CUID="244" tvg-name="Sky Cinema Action" tvg-id="skycinemaaction.uk" tvg-logo="https://logo.iptveditor.com/skycinemaaction.png" group-title="ONLY MOVIES",Sky Cinema Action
-http://ip365.cx:900/0324429672/3273888951/153754
-#EXTINF:0 CUID="245" tvg-name="Sky Cinema Hits" tvg-id="skycinemamegahits.uk" tvg-logo="https://logo.iptveditor.com/skycinemahits.png" group-title="ONLY MOVIES",Sky Cinema Hits
-http://ip365.cx:900/0324429672/3273888951/153746
-#EXTINF:0 CUID="246" tvg-name="Sky Cinema Premiere" tvg-id="skycinemapremiere.uk" tvg-logo="https://logo.iptveditor.com/skycinemapremiere.png" group-title="ONLY MOVIES",Sky Cinema Premiere
-http://ip365.cx:900/0324429672/3273888951/153744
-#EXTINF:0 CUID="247" tvg-name="Sky Cinema Sci-Fi" tvg-id="skycinemascifi&horror.uk" tvg-logo="https://logo.iptveditor.com/skycinemasci.png" group-title="ONLY MOVIES",Sky Cinema Sci-Fi
-http://ip365.cx:900/0324429672/3273888951/153762
-#EXTINF:0 CUID="248" tvg-name="Sky Cinema Thriller " tvg-id="skycinemathriller.uk" tvg-logo="https://logo.iptveditor.com/skycinemathriller.png" group-title="ONLY MOVIES",Sky Cinema Thriller 
-http://ip365.cx:900/0324429672/3273888951/191467
-#EXTINF:0 CUID="249" tvg-name="Sky Comedy" tvg-id="skycomedycinema.uk" tvg-logo="https://logo.iptveditor.com/skycinemacomedy.png" group-title="ONLY MOVIES",Sky Comedy
-http://ip365.cx:900/0324429672/3273888951/153756
-#EXTINF:0 CUID="250" tvg-name="Sky Cinema Greats" tvg-id="skycinemagreats.uk" tvg-logo="https://logo.iptveditor.com/skycinemagreats.png" group-title="ONLY MOVIES",Sky Cinema Greats
-http://ip365.cx:900/0324429672/3273888951/153749
-#EXTINF:0 CUID="251" tvg-name="Sky Cinema Select" tvg-id="skycinemaselect.uk" tvg-logo="https://logo.iptveditor.com/skycinemablockbusters.png" group-title="ONLY MOVIES",Sky Cinema Select
-http://ip365.cx:900/0324429672/3273888951/190000
-#EXTINF:0 CUID="252" tvg-name="Sky Cinema Drama" tvg-id="skycinemagreats.uk" tvg-logo="https://logo.iptveditor.com/skycinemadrama.png" group-title="ONLY MOVIES",Sky Cinema Drama
-http://ip365.cx:900/0324429672/3273888951/153760
-#EXTINF:0 CUID="253" tvg-name="Sky Cinema Family" tvg-id="skycinemafamily.uk" tvg-logo="https://logo.iptveditor.com/skycinemafamily.png" group-title="ONLY MOVIES",Sky Cinema Family
-http://ip365.cx:900/0324429672/3273888951/153752
+http://181.233.124.38:80/Roberta1/Roberta2/176084
 #EXTINF:0 CUID="412" tvg-name="USA Cinemax 5 Star Max" tvg-id="5starmax.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="ONLY MOVIES",USA Cinemax 5 Star Max
 http://181.233.124.38:80/Roberta1/Roberta2/176010
 #EXTINF:0 CUID="260" tvg-name="USA Cinemax Action Max East" tvg-logo="https://logo.iptveditor.com/cinemaxactionmax.png" group-title="ONLY MOVIES",USA Cinemax Action Max East
