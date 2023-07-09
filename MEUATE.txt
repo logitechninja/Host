@@ -61,7 +61,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCO
 #EXTINF:0 CUID="452" tvg-name="Discovery Turbo" tvg-id="discoveryturbo.br.minus-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTERTAINMENT",Discovery Turbo
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:0 CUID="451" tvg-name="Discovery Turbo UK" tvg-id="discoveryturbo.uk" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="ENTERTAINMENT",Discovery Turbo UK
-http://181.233.124.38:80/doctor1/doctor2/189936
+http://181.233.124.38:80/charlie/12345678/189936
 #EXTINF:0 CUID="222" tvg-name="Motor Trend" tvg-id="motortrend.us" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" group-title="ENTERTAINMENT",Motor Trend
 http://181.233.124.38:80/Roberta1/Roberta2/175834
 #EXTINF:0 CUID="143" tvg-name="Motorvision Tv" tvg-id="motorvisiontv.us" tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="ENTERTAINMENT",Motorvision Tv
@@ -121,7 +121,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TV_LAND.smil/playlist
 #EXTINF:0 CUID="91" tvg-name="TV One" tvg-id="tvone.us" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="ENTERTAINMENT",TV One
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:0 CUID="92" tvg-name="TBS" tvg-id="tbs.us" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="ENTERTAINMENT",TBS
-http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBS.smil/playlist.m3u8
+http://181.233.124.38:80/Roberta1/Roberta2/175938
 #EXTINF:0 CUID="93" tvg-name="Turner Classic Movies US" tvg-id="turnerclassicmovies.us" tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="ENTERTAINMENT",Turner Classic Movies US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:0 CUID="94" tvg-name="TLC (East)" tvg-id="tlc.us" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="ENTERTAINMENT",TLC (East)
