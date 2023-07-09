@@ -355,7 +355,7 @@ http://edge.bz:8080/123456789/987654321/284
 #EXTINF:0 CUID="281" tvg-name="Sky Sports Arena" tvg-id="skysportsarena.uk" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="SPORTS ",Sky Sports Arena
 http://edge.bz:8080/123456789/987654321/292
 #EXTINF:0 CUID="282" tvg-name="Sky Sports Cricket" tvg-id="skysportscricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="SPORTS ",Sky Sports Cricket
-http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2317.m3u8
+http://humiptv.live:8080/live/Antonio123/Antonio123/23566.ts
 #EXTINF:0 CUID="283" tvg-name="Sky Sports F1" tvg-id="skysportsf1.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SPORTS ",Sky Sports F1
 http://edge.bz:8080/123456789/987654321/291
 #EXTINF:0 CUID="284" tvg-name="Sky Sports Football" tvg-id="skysportsfootball.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="SPORTS ",Sky Sports Football
@@ -433,7 +433,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chun
 #EXTINF:0 CUID="411" tvg-name="Carib: ZEE TV (Asian)" tvg-id="zeetvasiapacific.sg" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="Bollywood",Carib: ZEE TV (Asian)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:0 CUID="417" tvg-name="Zee World" tvg-id="world.us" tvg-logo="https://logo.iptveditor.com/zeeworld.png" group-title="Bollywood",Zee World
-http://ip365.cx:900/3160760056/5CD5B7DC/400318022
+https://is.gd/absMUg
 #EXTINF:0 CUID="60" tvg-name="Anime All Ages" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Anime",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 CUID="61" tvg-name="Anime All Day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
