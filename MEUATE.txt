@@ -309,11 +309,11 @@ http://edge.bz:8080/123456789/987654321/269
 #EXTINF:0 CUID="441" tvg-name="Sky BT Sports 4" tvg-id="btsport.uk" tvg-logo="https://logo.iptveditor.com/btsports3.png" group-title="SPORTS ",Sky BT Sports 4
 http://edge.bz:8080/123456789/987654321/127392
 #EXTINF:0 CUID="142" tvg-name="Supersports Action" tvg-id="supersportaction.za" tvg-logo="https://logo.iptveditor.com/supersportaction.png" group-title="SPORTS ",Supersports Action
-http://edge.bz:8080/123456789/987654321/10697
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900
 #EXTINF:0 CUID="146" tvg-name="Supersports Blitz" tvg-id="supersportvariety1.za" tvg-logo="https://logo.iptveditor.com/supersportvariety1.png" group-title="SPORTS ",Supersports Blitz
-http://edge.bz:8080/123456789/987654321/10698
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28906
 #EXTINF:0 CUID="147" tvg-name="Supersports Cricket" tvg-id="supersportvariety2.za" tvg-logo="https://logo.iptveditor.com/supersportvariety2.png" group-title="SPORTS ",Supersports Cricket
-http://edge.bz:8080/123456789/987654321/10699
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905
 #EXTINF:0 CUID="145" tvg-name="Supersports Tennis" tvg-id="supersporttennis.za" tvg-logo="https://logo.iptveditor.com/supersporttennis.png" group-title="SPORTS ",Supersports Tennis
 http://edge.bz:8080/123456789/987654321/52044
 #EXTINF:0 CUID="442" tvg-name="Supersport Football " tvg-id="skysportfootball.uk" tvg-logo="https://logo.iptveditor.com/supersportfootball.png" group-title="SPORTS ",Supersport Football 
@@ -355,7 +355,7 @@ http://edge.bz:8080/123456789/987654321/284
 #EXTINF:0 CUID="281" tvg-name="Sky Sports Arena" tvg-id="skysportsarena.uk" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="SPORTS ",Sky Sports Arena
 http://edge.bz:8080/123456789/987654321/292
 #EXTINF:0 CUID="282" tvg-name="Sky Sports Cricket" tvg-id="skysportscricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="SPORTS ",Sky Sports Cricket
-http://humiptv.live:8080/live/Antonio123/Antonio123/23566.ts
+http://181.233.124.38:80/charlie/12345678/1769162
 #EXTINF:0 CUID="283" tvg-name="Sky Sports F1" tvg-id="skysportsf1.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SPORTS ",Sky Sports F1
 http://edge.bz:8080/123456789/987654321/291
 #EXTINF:0 CUID="284" tvg-name="Sky Sports Football" tvg-id="skysportsfootball.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="SPORTS ",Sky Sports Football
