@@ -91,11 +91,11 @@ http://181.233.124.38:80/Roberta1/Roberta2/175863
 #EXTINF:0 CUID="75" tvg-name="Game Show Central" tvg-id="gameshowcentral.us" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="ENTERTAINMENT",Game Show Central
 https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?
 #EXTINF:0 CUID="333" tvg-name="USA | HALLMARK CHANNEL" tvg-id="hallmarkchannel.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png" group-title="ENTERTAINMENT",USA | HALLMARK CHANNEL
-http://iptv365.xyz:900/3160760056/5CD5B7DC/376243
+http://181.233.124.38:80/Roberta1/Roberta2/175864
 #EXTINF:0 CUID="77" tvg-name="HALLMARK MOVIES" tvg-id="hallmarkmovies&more.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png" group-title="ENTERTAINMENT",HALLMARK MOVIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:0 CUID="280" tvg-name="Hallmark Drama" tvg-id="hallmarkdrama.us" tvg-logo="https://logo.iptveditor.com/hallmarkdrama.png" group-title="ENTERTAINMENT",Hallmark Drama
-http://ip365.cx:900/0324429672/3273888951/181591
+http://181.233.124.38:80/Roberta1/Roberta2/175866
 #EXTINF:0 CUID="78" tvg-name="Lifetime Network (East)" tvg-id="lifetime.us" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title="ENTERTAINMENT",Lifetime Network (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0 CUID="79" tvg-name="Lifetime Movies (East)" tvg-id="lmn.us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png" group-title="ENTERTAINMENT",Lifetime Movies (East)
@@ -440,3 +440,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 CUID="62" tvg-name="Anime All Day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
