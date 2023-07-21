@@ -28,10 +28,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunkl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:0 CUID="17" tvg-name="TRINITY TV" tvg-id="trinitychannel.us" tvg-logo="https://tcn-tt.com/wp-content/uploads/2019/10/trinity-tv-logo-2-e1571671439452.png" group-title="ENTERTAINMENT",TRINITY TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
-#EXTINF:0 CUID="12" tvg-name="AXN" tvg-id="axnjapan.us" tvg-logo="https://static.epg.best/pt/AXN.pt.png" group-title="ENTERTAINMENT",AXN
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:0 CUID="13" tvg-name="AMC (East) US" tvg-id="amc.us" tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="ENTERTAINMENT",AMC (East) US
-http://tvstarlife.com:25461/live/cesar/cesar123/93.m3u8
+https://is.gd/12OJnb
 #EXTINF:0 CUID="14" tvg-name="AMG TV" tvg-id="amgtv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU" group-title="ENTERTAINMENT",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:0 CUID="20" tvg-name="MTM JAMAICA" tvg-id="mtm.jm" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/11/MTM-LOGO-FOR-TV-1.png" group-title="ENTERTAINMENT",MTM JAMAICA
@@ -121,7 +119,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TV_LAND.smil/playlist
 #EXTINF:0 CUID="91" tvg-name="TV One" tvg-id="tvone.us" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="ENTERTAINMENT",TV One
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:0 CUID="92" tvg-name="TBS" tvg-id="tbs.us" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="ENTERTAINMENT",TBS
-http://181.233.124.38:80/Roberta1/Roberta2/175938
+https://is.gd/TKQBo4
 #EXTINF:0 CUID="93" tvg-name="Turner Classic Movies US" tvg-id="turnerclassicmovies.us" tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="ENTERTAINMENT",Turner Classic Movies US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
 #EXTINF:0 CUID="94" tvg-name="TLC (East)" tvg-id="tlc.us" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="ENTERTAINMENT",TLC (East)
@@ -404,22 +402,20 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOOMERANG.smil/play
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
 #EXTINF:0 CUID="44" tvg-name="Disney Jr (East) US" tvg-id="discoverykids.us" tvg-logo="https://static.epg.best/us/DisneyJunior.us.png" group-title="KIDS",Disney Jr (East) US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:DISNEY_JR.smil/playlist.m3u8
-#EXTINF:0 CUID="45" tvg-name="Disney Xd (East) US" tvg-id="disneyxd.ca" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" group-title="KIDS",Disney Xd (East) US
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playlist.m3u8
+#EXTINF:0 CUID="45" tvg-name="Disney Xd (East) US" tvg-id="disneyxd.us" tvg-logo="https://static.epg.best/us/DisneyXD.us.png" group-title="KIDS",Disney Xd (East) US
+https://is.gd/Sqkm8W
 #EXTINF:0 CUID="46" tvg-name="DUCKTV" tvg-id="ducktv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",DUCKTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:0 CUID="53" tvg-name="Discovery Kids" tvg-id="discoverykids.us" tvg-logo="https://static.epg.best/in/DiscoveryKids.in.png" group-title="KIDS",Discovery Kids
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8
-#EXTINF:0 CUID="64" tvg-name="Nickelodeon (East) US" tvg-id="nickelodeon.us" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="KIDS",Nickelodeon (East) US
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
+#EXTINF:0 CUID="64" tvg-name="Nickelodeon UK" tvg-id="nickelodeon.us" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="KIDS",Nickelodeon UK
+https://is.gd/55zEvb
 #EXTINF:0 CUID="65" tvg-name="TeenNick (East) US" tvg-id="teennick.us" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title="KIDS",TeenNick (East) US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:0 CUID="66" tvg-name="Nick Jr US" tvg-id="nickjr.us" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="KIDS",Nick Jr US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NICK_JR.smil/playlist.m3u8
 #EXTINF:0 CUID="396" tvg-name="Cartoon Network FHD" tvg-id="cartoonnetwork.us" tvg-logo="https://static.epg.best/us/CartoonNetwork.us.png" group-title="KIDS",Cartoon Network FHD
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playlist.m3u8
+https://is.gd/TtyZn1
 #EXTINF:0 CUID="397" tvg-name="USA | DISNEY CHANNEL" tvg-id="disneychannel.us" tvg-logo="https://static.epg.best/us/DisneyChannel.us.png" group-title="KIDS",USA | DISNEY CHANNEL
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlist.m3u8
+https://is.gd/PynTPo
 #EXTINF:0 CUID="405" tvg-name="SMILE" tvg-id="smile.us" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png" group-title="KIDS",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
 #EXTINF:0 CUID="119" tvg-name="CAR| IETV HFD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg" group-title="Bollywood",CAR| IETV HFD
@@ -440,4 +436,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 CUID="62" tvg-name="Anime All Day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
