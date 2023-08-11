@@ -266,7 +266,7 @@ http://103.145.13.105:8080/juanchy/juanchy/17957
 http://103.145.13.105:8080/juanchy/juanchy/17952
 #EXTINF:0 CUID="412" tvg-name="USA Cinemax 5 Star Max" tvg-id="5starmax.us" tvg-logo="https://logo.iptveditor.com/5starmax.png" group-title="ONLY MOVIES",USA Cinemax 5 Star Max
 http://181.233.124.38:80/Roberta1/Roberta2/176010
-#EXTINF:0 CUID="260" tvg-name="USA Cinemax Action Max East" tvg-logo="https://logo.iptveditor.com/cinemaxactionmax.png" group-title="ONLY MOVIES",USA Cinemax Action Max East
+#EXTINF:0 CUID="260" tvg-name="USA Cinemax Action Max East" tvg-id="actionmax.us" tvg-logo="https://logo.iptveditor.com/cinemaxactionmax.png" group-title="ONLY MOVIES",USA Cinemax Action Max East
 http://103.145.13.105:8080/juanchy/juanchy/17944
 #EXTINF:0 CUID="262" tvg-name="USA Cinemax East" tvg-id="cinemax.us" tvg-logo="https://logo.iptveditor.com/cinemaxmoremax.png" group-title="ONLY MOVIES",USA Cinemax East
 http://181.233.124.38:80/Roberta1/Roberta2/176013
@@ -430,3 +430,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 CUID="62" tvg-name="Anime All Day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:0 CUID="454" tvg-name="Cinebox: Animation" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Animation
+http://fortv.cc:8080/live/jonathan/jonathan/119420.m3u8
+#EXTINF:0 CUID="455" tvg-name="Cinebox: Blockbusters" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Blockbusters
+http://fortv.cc:8080/live/jonathan/jonathan/119421.m3u8
+#EXTINF:0 CUID="456" tvg-name="Cinebox: Classic" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Classic
+http://fortv.cc:8080/live/jonathan/jonathan/119422.m3u8
+#EXTINF:0 CUID="457" tvg-name="Cinebox: Comedy" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Comedy
+http://fortv.cc:8080/live/jonathan/jonathan/119423.m3u8
+#EXTINF:0 CUID="458" tvg-name="Cinebox: Cult" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Cult
+http://fortv.cc:8080/live/jonathan/jonathan/119424.m3u8
+#EXTINF:0 CUID="459" tvg-name="Cinebox: Family" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Family
+http://fortv.cc:8080/live/jonathan/jonathan/119425.m3u8
+#EXTINF:0 CUID="460" tvg-name="Cinebox: Romance" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Romance
+http://fortv.cc:8080/live/jonathan/jonathan/119433.m3u8
+#EXTINF:0 CUID="461" tvg-name="Cinebox: Horror" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Horror
+http://fortv.cc:8080/live/jonathan/jonathan/119429.m3u8
+#EXTINF:0 CUID="462" tvg-name="Cinebox: Hits" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Hits
+http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
+#EXTINF:0 CUID="464" tvg-name="Cinbox: Thriller" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinbox: Thriller
+http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
+#EXTINF:0 CUID="463" tvg-name="Cinbox: Thriller" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinbox: Thriller
+http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
+#EXTINF:0 CUID="465" tvg-name="Cinbox: Thriller" group-title="24/7",Cinbox: Thriller
+http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
