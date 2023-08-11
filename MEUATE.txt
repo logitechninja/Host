@@ -359,7 +359,7 @@ http://edge.bz:8080/123456789/987654321/287
 #EXTINF:0 CUID="288" tvg-name="Sky Sports Premier League" tvg-id="skysportspremierleague.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="SPORTS ",Sky Sports Premier League
 http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2324.m3u8
 #EXTINF:0 CUID="418" tvg-name="Flow Sports" tvg-id="carflowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports
-http://iptv365.xyz:900/3160760056/5CD5B7DC/376145
+http://tvpanel.one:80/live/Alexis4/alexis4/782673.ts
 #EXTINF:0 CUID="419" tvg-name="Flow Sports 2" tvg-id="flowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports 2
 http://iptv365.xyz:900/3160760056/5CD5B7DC/376144
 #EXTINF:0 CUID="450" tvg-name="Sky Sport Mix" tvg-id="skysportmix.uk" tvg-logo="https://logo.iptveditor.com/skysportmix.png" group-title="SPORTS ",Sky Sport Mix
@@ -416,14 +416,14 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:0 CUID="120" tvg-name="Zee Cinema" tvg-id="zeecinema.us" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png" group-title="Bollywood",Zee Cinema
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:0 CUID="417" tvg-name="Zee World" tvg-id="world.us" tvg-logo="https://logo.iptveditor.com/zeeworld.png" group-title="Bollywood",Zee World
+https://is.gd/absMUg
+#EXTINF:0 CUID="411" tvg-name="Carib: ZEE TV (Asian)" tvg-id="zeetvasiapacific.sg" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="Bollywood",Carib: ZEE TV (Asian)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
 #EXTINF:0 CUID="276" tvg-name="B4U Movies" tvg-id="b4umovies.uk" tvg-logo="https://logo.iptveditor.com/b4umovies.png" group-title="Bollywood",B4U Movies
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/playlist.m3u8
 #EXTINF:0 CUID="277" tvg-name="B4U Music" tvg-id="b4umusic.uk" tvg-logo="https://logo.iptveditor.com/b4umusic.png" group-title="Bollywood",B4U Music
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8
-#EXTINF:0 CUID="411" tvg-name="Carib: ZEE TV (Asian)" tvg-id="zeetvasiapacific.sg" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526" group-title="Bollywood",Carib: ZEE TV (Asian)
-http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEETV.smil/playlist.m3u8
-#EXTINF:0 CUID="417" tvg-name="Zee World" tvg-id="world.us" tvg-logo="https://logo.iptveditor.com/zeeworld.png" group-title="Bollywood",Zee World
-https://is.gd/absMUg
 #EXTINF:0 CUID="60" tvg-name="Anime All Ages" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Anime",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 CUID="61" tvg-name="Anime All Day" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
@@ -449,8 +449,4 @@ http://fortv.cc:8080/live/jonathan/jonathan/119429.m3u8
 #EXTINF:0 CUID="462" tvg-name="Cinebox: Hits" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinebox: Hits
 http://fortv.cc:8080/live/jonathan/jonathan/119436.m3u8
 #EXTINF:0 CUID="464" tvg-name="Cinbox: Thriller" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinbox: Thriller
-http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
-#EXTINF:0 CUID="463" tvg-name="Cinbox: Thriller" tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/cinebox-dribbble-size_4x.png" group-title="24/7",Cinbox: Thriller
-http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
-#EXTINF:0 CUID="465" tvg-name="Cinbox: Thriller" group-title="24/7",Cinbox: Thriller
 http://fortv.cc:8080/live/jonathan/jonathan/119437.m3u8
