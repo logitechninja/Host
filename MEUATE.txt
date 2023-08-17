@@ -288,8 +288,6 @@ http://edge.bz:8080/123456789/987654321/197
 http://edge.bz:8080/123456789/987654321/198
 #EXTINF:0 CUID="438" tvg-name="BeinSports 3" tvg-id="beinsports3.us" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="SPORTS ",BeinSports 3
 http://edge.bz:8080/123456789/987654321/199
-#EXTINF:0 CUID="138" tvg-name="Edge Sports" tvg-id="edgesports.us" tvg-logo="https://logo.iptveditor.com/edgesport.png" group-title="SPORTS ",Edge Sports
-https://edgesport-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:0 CUID="144" tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.postimg.cc/zBVVyYKW/tvredbull.png" group-title="SPORTS ",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 CUID="149" tvg-name="Sky BT Sports 1" tvg-id="btsport1.uk" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="SPORTS ",Sky BT Sports 1
@@ -313,7 +311,9 @@ http://edge.bz:8080/123456789/987654321/10701
 #EXTINF:0 CUID="443" tvg-name="Supersport Golf" tvg-id="supersportgolf.za" tvg-logo="https://logo.iptveditor.com/supersportgolf.png" group-title="SPORTS ",Supersport Golf
 http://edge.bz:8080/123456789/987654321/10703
 #EXTINF:0 CUID="444" tvg-name="Supersport Premier League" tvg-id="skysportpremierleague.uk" tvg-logo="https://logo.iptveditor.com/supersportpremierleague.png" group-title="SPORTS ",Supersport Premier League
-http://edge.bz:8080/123456789/987654321/10709
+http://195.181.164.130:80/live.ts?channelId=99&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 CUID="466" tvg-name="Super Sport 2" tvg-logo="https://logo.iptveditor.com/supersport2.png" group-title="SPORTS ",Super Sport 2
+http://195.181.164.134:80/live.ts?channelId=100&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 CUID="137" tvg-name="WWE Network" tvg-id="wwenetwork.ca" tvg-logo="https://i.postimg.cc/j5bmcQDn/wwnet.png" group-title="SPORTS ",WWE Network
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 CUID="131" tvg-name="Willow Cricket" tvg-id="willow.cricket.us" tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="SPORTS ",Willow Cricket
@@ -351,13 +351,13 @@ http://181.233.124.38:80/charlie/12345678/1769162
 #EXTINF:0 CUID="283" tvg-name="Sky Sports F1" tvg-id="skysportsf1.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SPORTS ",Sky Sports F1
 http://edge.bz:8080/123456789/987654321/291
 #EXTINF:0 CUID="284" tvg-name="Sky Sports Football" tvg-id="skysportsfootball.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="SPORTS ",Sky Sports Football
-http://edge.bz:8080/123456789/987654321/290
+http://195.181.164.134:80/live.ts?channelId=137&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 CUID="285" tvg-name="Sky Sports Golf" tvg-id="skysportsgolf.uk" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="SPORTS ",Sky Sports Golf
 http://edge.bz:8080/123456789/987654321/286
 #EXTINF:0 CUID="449" tvg-name="Sky Sports Main Event" tvg-id="skysportsmainevent.uk" tvg-logo="https://logo.iptveditor.com/skysportsmainevent.png" group-title="SPORTS ",Sky Sports Main Event
 http://edge.bz:8080/123456789/987654321/287
 #EXTINF:0 CUID="288" tvg-name="Sky Sports Premier League" tvg-id="skysportspremierleague.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="SPORTS ",Sky Sports Premier League
-http://247iptv.org:5454/live/Gwendolyn/Gwendolyn/2324.m3u8
+http://195.181.164.130:80/live.ts?channelId=136&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 CUID="418" tvg-name="Flow Sports" tvg-id="carflowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports
 http://tvpanel.one:80/live/Alexis4/alexis4/782673.ts
 #EXTINF:0 CUID="419" tvg-name="Flow Sports 2" tvg-id="flowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports 2
