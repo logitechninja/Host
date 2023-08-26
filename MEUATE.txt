@@ -15,7 +15,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.
 #EXTINF:0 CUID="301" tvg-name="CAR: 3ABN | SD" tvg-logo="https://3abn.org/img/3abn-ogg.png" group-title="ENTERTAINMENT",CAR: 3ABN | SD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:0 CUID="296" tvg-name="TEMPO" tvg-id="tempo.us" tvg-logo="https://pbs.twimg.com/profile_images/344513261566495012/19d7c82aab902628610c757d79fbd690.jpeg" group-title="ENTERTAINMENT",TEMPO
-http://iptv365.xyz:900/3160760056/5CD5B7DC/76411
+http://tvpanel.one:80/live/Alexis4/alexis4/788002.ts
 #EXTINF:0 CUID="7" tvg-name="Synergy" tvg-id="synergy.tt" tvg-logo="https://logo.iptveditor.com/synergytvtrinidad.png" group-title="ENTERTAINMENT",Synergy
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:0 CUID="302" tvg-name="POSI TV" tvg-id="positivtv.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/positiv.png" group-title="ENTERTAINMENT",POSI TV
@@ -32,8 +32,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/pla
 https://is.gd/12OJnb
 #EXTINF:0 CUID="14" tvg-name="AMG TV" tvg-id="amgtv.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvG9Hg_GVNZCDW65MfTWXcJ0yF7GpaQSN0tw&usqp=CAU" group-title="ENTERTAINMENT",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:0 CUID="20" tvg-name="MTM JAMAICA" tvg-id="mtm.jm" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/11/MTM-LOGO-FOR-TV-1.png" group-title="ENTERTAINMENT",MTM JAMAICA
-https://5e7e4393c0df3.streamlock.net/mtmtv/live/playlist.m3u8
 #EXTINF:0 CUID="21" tvg-name="A&E" tvg-id="a&e.us" tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="ENTERTAINMENT",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:0 CUID="16" tvg-name="Bet Her US" tvg-id="bether.us" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="ENTERTAINMENT",Bet Her US
@@ -59,11 +57,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCO
 #EXTINF:0 CUID="452" tvg-name="Discovery Turbo" tvg-id="discoveryturbo.br.minus-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="ENTERTAINMENT",Discovery Turbo
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:0 CUID="451" tvg-name="Discovery Turbo UK" tvg-id="discoveryturbo.uk" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="ENTERTAINMENT",Discovery Turbo UK
-http://181.233.124.38:80/charlie/12345678/189936
+http://195.181.164.134:80/live.ts?channelId=57&deviceUser=lionel&devicePass=lionel&uid=21781
 #EXTINF:0 CUID="222" tvg-name="Motor Trend" tvg-id="motortrend.us" tvg-logo="https://download.logo.wine/logo/Motor_Trend/Motor_Trend-Logo.wine.png" group-title="ENTERTAINMENT",Motor Trend
-http://181.233.124.38:80/Roberta1/Roberta2/175834
+http://edge.bz:8080/51227/51227/10728
 #EXTINF:0 CUID="143" tvg-name="Motorvision Tv" tvg-id="motorvisiontv.us" tvg-logo="https://i.postimg.cc/850wLhtb/motorvisiontv.png" group-title="ENTERTAINMENT",Motorvision Tv
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=30500&extension=ts&play_token=TQ6cftyhX8
+https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
 #EXTINF:0 CUID="55" tvg-name="Freeform" tvg-id="freeform.us" tvg-logo="https://static.epg.best/us/Freeform.us.png" group-title="ENTERTAINMENT",Freeform
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
 #EXTINF:0 CUID="56" tvg-name="AXS TV" tvg-id="axstv.us" tvg-logo="https://media.tv4.live/axs.tv.usa.us.png" group-title="ENTERTAINMENT",AXS TV
@@ -76,6 +74,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:0 CUID="70" tvg-name="FUSE TV (East)" tvg-id="fusetv.us" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FUSE.png" group-title="ENTERTAINMENT",FUSE TV (East)
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
+#EXTINF:0 CUID="468" tvg-name="Adult Swim" tvg-id="adultswim.ca" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="ENTERTAINMENT",Adult Swim
+http://51.81.93.31:25461/newdeal/newdeal/344
 #EXTINF:0 CUID="71" tvg-name="FX Networks US" tvg-id="fx.us" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png" group-title="ENTERTAINMENT",FX Networks US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0 CUID="172" tvg-name="USA| FXX East" tvg-id="fxx.us" tvg-logo="https://i.picasion.com/pic92/adede37edc0c7aafc43d02d7f2fe19d5.gif" group-title="ENTERTAINMENT",USA| FXX East
@@ -89,17 +89,19 @@ http://181.233.124.38:80/Roberta1/Roberta2/175863
 #EXTINF:0 CUID="75" tvg-name="Game Show Central" tvg-id="gameshowcentral.us" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="ENTERTAINMENT",Game Show Central
 https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?
 #EXTINF:0 CUID="333" tvg-name="USA | HALLMARK CHANNEL" tvg-id="hallmarkchannel.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png" group-title="ENTERTAINMENT",USA | HALLMARK CHANNEL
-http://181.233.124.38:80/Roberta1/Roberta2/175864
+http://tvpanel.one:80/live/Alexis4/alexis4/787904.ts
 #EXTINF:0 CUID="77" tvg-name="HALLMARK MOVIES" tvg-id="hallmarkmovies&more.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png" group-title="ENTERTAINMENT",HALLMARK MOVIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:0 CUID="280" tvg-name="Hallmark Drama" tvg-id="hallmarkdrama.us" tvg-logo="https://logo.iptveditor.com/hallmarkdrama.png" group-title="ENTERTAINMENT",Hallmark Drama
-http://103.145.13.105:8080/juanchy/juanchy/17936
+http://fortv.cc:8080/12345/56789/9307
 #EXTINF:0 CUID="78" tvg-name="Lifetime Network (East)" tvg-id="lifetime.us" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png" group-title="ENTERTAINMENT",Lifetime Network (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0 CUID="79" tvg-name="Lifetime Movies (East)" tvg-id="lmn.us" tvg-logo="https://media.tv4.live/lifetime.movies.east.us.png" group-title="ENTERTAINMENT",Lifetime Movies (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:0 CUID="80" tvg-name="HGTV (East) US" tvg-id="hgtv.us" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="ENTERTAINMENT",HGTV (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
+#EXTINF:0 CUID="467" tvg-name="AXN TV" tvg-id="axn.latino" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ENTERTAINMENT",AXN TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:0 CUID="81" tvg-name="ION" tvg-id="ion.us" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg" group-title="ENTERTAINMENT",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
 #EXTINF:0 CUID="414" tvg-name="ION Mystery" tvg-id="ionmystery.us" tvg-logo="https://logo.iptveditor.com/ion.png" group-title="ENTERTAINMENT",ION Mystery
@@ -121,7 +123,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlis
 #EXTINF:0 CUID="92" tvg-name="TBS" tvg-id="tbs.us" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="ENTERTAINMENT",TBS
 https://is.gd/TKQBo4
 #EXTINF:0 CUID="93" tvg-name="Turner Classic Movies US" tvg-id="turnerclassicmovies.us" tvg-logo="https://static.epg.best/gb/TCM.uk.png" group-title="ENTERTAINMENT",Turner Classic Movies US
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:TCM.smil/playlist.m3u8
+https://trezix.tv:443/CharlieS/CharlieS/16076.ts
 #EXTINF:0 CUID="94" tvg-name="TLC (East)" tvg-id="tlc.us" tvg-logo="https://static.epg.best/us/TLC.us.png" group-title="ENTERTAINMENT",TLC (East)
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:0 CUID="95" tvg-name="USA Network (East)" tvg-id="usanetworkwest.us" tvg-logo="https://static.epg.best/us/USANetwork.us.png" group-title="ENTERTAINMENT",USA Network (East)
@@ -142,24 +144,18 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPACE.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:0 CUID="102" tvg-name="Syfy (East) US" tvg-id="syfy.us" tvg-logo="https://static.epg.best/us/Syfy.us.png" group-title="ENTERTAINMENT",Syfy (East) US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
-#EXTINF:0 CUID="210" tvg-name="FOX 5" tvg-id="foxwagmdt2.ca" tvg-logo="https://i.imgur.com/Qa3r2NA.png" group-title="ENTERTAINMENT",FOX 5
-http://45.12.1.14:80/BlIm21564/agf7Fp264/28219
 #EXTINF:0 CUID="116" tvg-name="Gusto TV" tvg-id="gusto.us" tvg-logo="https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg" group-title="ENTERTAINMENT",Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
-#EXTINF:0 CUID="118" tvg-name="FOOD NETWORK" tvg-id="foodnetworkwest.us" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="ENTERTAINMENT",FOOD NETWORK
-http://181.233.124.38:80/Roberta1/Roberta2/175851
+#EXTINF:0 CUID="118" tvg-name="FOOD NETWORK" tvg-id="foodnetwork.ca" tvg-logo="https://static.epg.best/us/FoodNetwork.us.png" group-title="ENTERTAINMENT",FOOD NETWORK
+http://51.81.93.31:25461/newdeal/newdeal/420
 #EXTINF:0 CUID="117" tvg-name="Cooking Channel US" tvg-id="cookingchannel.us" tvg-logo="https://lo1.in/LOGO/US/USAENTERTAINMENT/COOKINGCHANNEL.png" group-title="ENTERTAINMENT",Cooking Channel US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:0 CUID="218" tvg-name="Stingray Today's Latin Pop (1080p)" tvg-id="StingrayTodaysLatinPop" tvg-logo="http://static1.squarespace.com/static/5f076fc346152664088898da/5f07717d1964f66656324863/5f07717d1964f66656324974/1614119228900/homepage-1500x1125.jpg?format=1500w" group-title="ENTERTAINMENT",Stingray Today's Latin Pop (1080p)
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 #EXTINF:0 CUID="221" tvg-name="NBC" tvg-id="nbcnetwork.us" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="ENTERTAINMENT",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:0 CUID="211" tvg-name="🇺🇸US: BOOMERANG" tvg-id="boomerang.us" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="ENTERTAINMENT",🇺🇸US: BOOMERANG
-http://tvstarlife.com:25461/live/cesar/cesar123/189.m3u8
-#EXTINF:0 CUID="40" tvg-name="BBC 4" tvg-id="bbc4.uk" tvg-logo="https://logo.iptveditor.com/bbc4.png" group-title="ENTERTAINMENT",BBC 4
-http://181.233.124.38:80/doctor1/doctor2/1858077
-#EXTINF:0 CUID="39" tvg-name="BBC 2" tvg-id="bbc2.uk" tvg-logo="https://logo.iptveditor.com/bbc2.png" group-title="ENTERTAINMENT",BBC 2
-http://181.233.124.38:80/doctor1/doctor2/189891
+#EXTINF:0 CUID="40" tvg-name="BBC " tvg-id="bbcamerica.ca" tvg-logo="https://logo.iptveditor.com/bbc.png" group-title="ENTERTAINMENT",BBC 
+http://51.81.93.31:25461/newdeal/newdeal/347
 #EXTINF:0 CUID="310" tvg-name="USA | BOUNCE TV" tvg-id="bouncetv.us" tvg-logo="https://static.epg.best/us/BounceTV.us.png" group-title="ENTERTAINMENT",USA | BOUNCE TV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/playlist.m3u8
 #EXTINF:0 CUID="311" tvg-name="USA | BRAVO" tvg-id="bravo.us" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="ENTERTAINMENT",USA | BRAVO
@@ -174,7 +170,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:DIY.smil/chunklist_
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/playlist.m3u8
 #EXTINF:0 CUID="323" tvg-name="ElectricNOW" tvg-id="electricnow.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61FiKePugAL.png" group-title="ENTERTAINMENT",ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-#EXTINF:0 CUID="326" tvg-name="FOX HD" tvg-id="foxhdchannel(primehd).us" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png" group-title="ENTERTAINMENT",FOX HD
+#EXTINF:0 CUID="326" tvg-name="FOX HD" tvg-id="fox.us" tvg-logo="https://static.epg.best/us/FOXWXIX.us.png" group-title="ENTERTAINMENT",FOX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:0 CUID="343" tvg-name="USA | IFC" tvg-id="ifc.us" tvg-logo="https://static.epg.best/us/IndependentFilmChannel.us.png" group-title="ENTERTAINMENT",USA | IFC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8
@@ -182,8 +178,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605674085f0040ddc7a9&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:0 CUID="348" tvg-name="USA | ME TV" tvg-id="metv.us" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="ENTERTAINMENT",USA | ME TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8
-#EXTINF:0 CUID="349" tvg-name="MOVIES: MGM" tvg-id="movies!.us" tvg-logo="https://static.epg.best/us/MGM.us.png" group-title="ENTERTAINMENT",MOVIES: MGM
-http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/chunklist_b1160000.m3u8
 #EXTINF:0 CUID="352" tvg-name="MY33" tvg-id="my33wbfsmiami.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/WBFS-TV_My_33.svg/revision/latest/scale-to-width-down/200?cb=20101114114806" group-title="ENTERTAINMENT",MY33
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/playlist.m3u8
 #EXTINF:0 CUID="354" tvg-name="USA | PARAMOUNT NETWORK" tvg-id="paramountnetwork.us" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="ENTERTAINMENT",USA | PARAMOUNT NETWORK
@@ -209,29 +203,21 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist
 #EXTINF:0 CUID="104" tvg-name="..REEL" tvg-logo="https://logo.iptveditor.com/reelz.png" group-title="ONLY MOVIES",..REEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8
 #EXTINF:0 CUID="270" tvg-name="HBO 2" tvg-id="hbo2.us" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="ONLY MOVIES",HBO 2
-http://103.145.13.105:8080/juanchy/juanchy/17995
+https://trezix.tv:443/CharlieS/CharlieS/61955.ts
 #EXTINF:0 CUID="271" tvg-name="HBO Comedy" tvg-id="hbocomedy.us" tvg-logo="https://logo.iptveditor.com/hbocomedy.png" group-title="ONLY MOVIES",HBO Comedy
-http://103.145.13.105:8080/juanchy/juanchy/17940
-#EXTINF:0 CUID="272" tvg-name="HBO East" tvg-id="hbo.us" tvg-logo="https://logo.iptveditor.com/cahbo1r.png" group-title="ONLY MOVIES",HBO East
-http://103.145.13.105:8080/juanchy/juanchy/17997
+https://trezix.tv:443/CharlieS/CharlieS/4777.ts
 #EXTINF:0 CUID="273" tvg-name="HBO Family" tvg-id="hbofamily.us" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="ONLY MOVIES",HBO Family
-http://103.145.13.105:8080/juanchy/juanchy/17939
+https://trezix.tv:443/CharlieS/CharlieS/4779.ts
 #EXTINF:0 CUID="274" tvg-name="HBO Signature East " tvg-id="hbosignature.us" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="ONLY MOVIES",HBO Signature East 
-http://103.145.13.105:8080/juanchy/juanchy/17938
+https://trezix.tv:443/CharlieS/CharlieS/4781.ts
 #EXTINF:0 CUID="275" tvg-name="HBO Zone" tvg-id="hbozone.us" tvg-logo="https://logo.iptveditor.com/hbozone.png" group-title="ONLY MOVIES",HBO Zone
-http://103.145.13.105:8080/juanchy/juanchy/17937
+https://trezix.tv:443/CharlieS/CharlieS/4782.ts
 #EXTINF:0 CUID="105" tvg-name="HBO EAST USA" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="ONLY MOVIES",HBO EAST USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0 CUID="106" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="ONLY MOVIES",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:0 CUID="107" tvg-name="HBO PLUS" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="ONLY MOVIES",HBO PLUS
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:HBO_PLUS.smil/playlist.m3u8
-#EXTINF:0 CUID="109" tvg-name="HBO" tvg-logo="https://i.ibb.co/K2GWvrb/hbo-us.png" group-title="ONLY MOVIES",HBO
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
-#EXTINF:0 CUID="110" tvg-name="HBO XTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="ONLY MOVIES",HBO XTREME
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:0 CUID="111" tvg-name="HBO MUDI" tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="ONLY MOVIES",HBO MUDI
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0 CUID="225" tvg-name="Showtime Next" tvg-id="showtimenext.us" tvg-logo="https://logo.iptveditor.com/showtimenext.png" group-title="ONLY MOVIES",Showtime Next
 https://trezix.tv:443/CharlieS/CharlieS/16109.ts
 #EXTINF:0 CUID="226" tvg-name="Showtime Extreme" tvg-id="showtimeextreme.us" tvg-logo="https://logo.iptveditor.com/showtimeextreme.png" group-title="ONLY MOVIES",Showtime Extreme
@@ -282,36 +268,30 @@ http://103.145.13.105:8080/juanchy/juanchy/18010
 http://103.145.13.105:8080/juanchy/juanchy/18011
 #EXTINF:0 CUID="269" tvg-name="USA Cinemax West" tvg-id="cinemaxwest.us" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="ONLY MOVIES",USA Cinemax West
 http://103.145.13.105:8080/juanchy/juanchy/17946
-#EXTINF:0 CUID="123" tvg-name="BeinSports 1 " tvg-id="bein.sports.1.us" tvg-logo="https://static.epg.best/us/beINSports.us.png" group-title="SPORTS ",BeinSports 1 
-http://edge.bz:8080/123456789/987654321/197
-#EXTINF:0 CUID="437" tvg-name="BeinSports 2" tvg-id="beinsports2.us" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="SPORTS ",BeinSports 2
-http://edge.bz:8080/123456789/987654321/198
-#EXTINF:0 CUID="438" tvg-name="BeinSports 3" tvg-id="beinsports3.us" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="SPORTS ",BeinSports 3
-http://edge.bz:8080/123456789/987654321/199
+#EXTINF:0 CUID="149" tvg-name="Sky BT Sports 1" tvg-id="btsport1.uk" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="SPORTS ",Sky BT Sports 1
+http://247iptv.org:5454/boss123/boss123/202
+#EXTINF:0 CUID="151" tvg-name="Sky BT Sports 2" tvg-id="btsport2.uk" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="SPORTS ",Sky BT Sports 2
+http://247iptv.org:5454/boss123/boss123/201
+#EXTINF:0 CUID="441" tvg-name="Sky BT Sports 4" tvg-id="btsport.uk" tvg-logo="https://logo.iptveditor.com/btsports3.png" group-title="SPORTS ",Sky BT Sports 4
+http://247iptv.org:5454/boss123/boss123/199
+#EXTINF:0 CUID="439" tvg-name="Sky BT Sports 3" tvg-id="btsport.uk" tvg-logo="https://logo.iptveditor.com/btsports3ʰᵈ.png" group-title="SPORTS ",Sky BT Sports 3
+http://247iptv.org:5454/boss123/boss123/200
 #EXTINF:0 CUID="144" tvg-name="RedBull TV" tvg-id="redbulltv.us" tvg-logo="https://i.postimg.cc/zBVVyYKW/tvredbull.png" group-title="SPORTS ",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0 CUID="149" tvg-name="Sky BT Sports 1" tvg-id="btsport1.uk" tvg-logo="https://logo.iptveditor.com/btsport1.png" group-title="SPORTS ",Sky BT Sports 1
-http://edge.bz:8080/123456789/987654321/267
-#EXTINF:0 CUID="151" tvg-name="Sky BT Sports 2" tvg-id="btsport2.uk" tvg-logo="https://logo.iptveditor.com/btsport2.png" group-title="SPORTS ",Sky BT Sports 2
-http://edge.bz:8080/123456789/987654321/268
-#EXTINF:0 CUID="439" tvg-name="Sky BT Sports 3" tvg-id="btsport.uk" tvg-logo="https://logo.iptveditor.com/btsports3ʰᵈ.png" group-title="SPORTS ",Sky BT Sports 3
-http://edge.bz:8080/123456789/987654321/269
-#EXTINF:0 CUID="441" tvg-name="Sky BT Sports 4" tvg-id="btsport.uk" tvg-logo="https://logo.iptveditor.com/btsports3.png" group-title="SPORTS ",Sky BT Sports 4
-http://edge.bz:8080/123456789/987654321/127392
 #EXTINF:0 CUID="142" tvg-name="Supersports Action" tvg-id="supersportaction.za" tvg-logo="https://logo.iptveditor.com/supersportaction.png" group-title="SPORTS ",Supersports Action
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28900
 #EXTINF:0 CUID="146" tvg-name="Supersports Blitz" tvg-id="supersportvariety1.za" tvg-logo="https://logo.iptveditor.com/supersportvariety1.png" group-title="SPORTS ",Supersports Blitz
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28906
 #EXTINF:0 CUID="147" tvg-name="Supersports Cricket" tvg-id="supersportvariety2.za" tvg-logo="https://logo.iptveditor.com/supersportvariety2.png" group-title="SPORTS ",Supersports Cricket
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28905
-#EXTINF:0 CUID="145" tvg-name="Supersports Tennis" tvg-id="supersporttennis.za" tvg-logo="https://logo.iptveditor.com/supersporttennis.png" group-title="SPORTS ",Supersports Tennis
-http://edge.bz:8080/123456789/987654321/52044
-#EXTINF:0 CUID="442" tvg-name="Supersport Football " tvg-id="skysportfootball.uk" tvg-logo="https://logo.iptveditor.com/supersportfootball.png" group-title="SPORTS ",Supersport Football 
-http://edge.bz:8080/123456789/987654321/10701
 #EXTINF:0 CUID="443" tvg-name="Supersport Golf" tvg-id="supersportgolf.za" tvg-logo="https://logo.iptveditor.com/supersportgolf.png" group-title="SPORTS ",Supersport Golf
 http://edge.bz:8080/123456789/987654321/10703
 #EXTINF:0 CUID="444" tvg-name="Supersport Premier League" tvg-id="skysportpremierleague.uk" tvg-logo="https://logo.iptveditor.com/supersportpremierleague.png" group-title="SPORTS ",Supersport Premier League
 http://195.181.164.130:80/live.ts?channelId=99&deviceUser=deb&devicePass=deb&uid=21781
+#EXTINF:0 CUID="145" tvg-name="Tennis Channel" tvg-id="supersporttennis.za" tvg-logo="https://logo.iptveditor.com/stennischannel.png" group-title="SPORTS ",Tennis Channel
+http://247iptv.org:5454/boss123/boss123/664
+#EXTINF:0 CUID="442" tvg-name="Sky Sport Football " tvg-id="skysportfootball.uk" tvg-logo="https://logo.iptveditor.com/skysportfootball.png" group-title="SPORTS ",Sky Sport Football 
+http://247iptv.org:5454/boss123/boss123/2319
 #EXTINF:0 CUID="466" tvg-name="Super Sport 2" tvg-logo="https://logo.iptveditor.com/supersport2.png" group-title="SPORTS ",Super Sport 2
 http://195.181.164.134:80/live.ts?channelId=100&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 CUID="137" tvg-name="WWE Network" tvg-id="wwenetwork.ca" tvg-logo="https://i.postimg.cc/j5bmcQDn/wwnet.png" group-title="SPORTS ",WWE Network
@@ -328,28 +308,12 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:0 CUID="125" tvg-name="ESPN 2 US" tvg-id="espn2.us" tvg-logo="https://static.epg.best/us/ESPN2.us.png" group-title="SPORTS ",ESPN 2 US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:0 CUID="133" tvg-name="TSN 1" tvg-id="tsn1.ca" tvg-logo="https://logo.iptveditor.com/tsn1.png" group-title="SPORTS ",TSN 1
-http://edge.bz:8080/123456789/987654321/302
-#EXTINF:0 CUID="445" tvg-name="TSN 2" tvg-id="tsn2.us" tvg-logo="https://logo.iptveditor.com/catsn2.png" group-title="SPORTS ",TSN 2
-http://edge.bz:8080/123456789/987654321/303
-#EXTINF:0 CUID="446" tvg-name="TSN 3" tvg-id="tsn.us" tvg-logo="https://logo.iptveditor.com/tsn3.png" group-title="SPORTS ",TSN 3
-http://edge.bz:8080/123456789/987654321/304
-#EXTINF:0 CUID="447" tvg-name="TSN 4" tvg-id="tsn.us" tvg-logo="https://logo.iptveditor.com/tsn4.png" group-title="SPORTS ",TSN 4
-http://edge.bz:8080/123456789/987654321/305
-#EXTINF:0 CUID="448" tvg-name="TSN 5" tvg-id="tsn.us" tvg-logo="https://logo.iptveditor.com/tsn5.png" group-title="SPORTS ",TSN 5
-http://edge.bz:8080/123456789/987654321/306
-#EXTINF:0 CUID="278" tvg-name="Sports Max " tvg-id="sportsmax.us" tvg-logo="https://logo.iptveditor.com/sportsmax.png" group-title="SPORTS ",Sports Max 
-http://iptv365.xyz:900/3160760056/1016703067/195868
 #EXTINF:0 CUID="279" tvg-name="Sports Max 2" tvg-id="sportsmax2.us" tvg-logo="https://logo.iptveditor.com/sportsmax2.png" group-title="SPORTS ",Sports Max 2
-http://iptv365.xyz:900/3160760056/5CD5B7DC/195869
-#EXTINF:0 CUID="287" tvg-name="Sky Sports Action" tvg-id="skysportsaction.uk" tvg-logo="https://logo.iptveditor.com/skysportsaction.png" group-title="SPORTS ",Sky Sports Action
-http://edge.bz:8080/123456789/987654321/284
-#EXTINF:0 CUID="281" tvg-name="Sky Sports Arena" tvg-id="skysportsarena.uk" tvg-logo="https://logo.iptveditor.com/skysportsarena.png" group-title="SPORTS ",Sky Sports Arena
-http://edge.bz:8080/123456789/987654321/292
+http://206.212.248.24:80/live/steve99/steve99/236066.m3u
 #EXTINF:0 CUID="282" tvg-name="Sky Sports Cricket" tvg-id="skysportscricket.uk" tvg-logo="https://logo.iptveditor.com/skysportscricket.png" group-title="SPORTS ",Sky Sports Cricket
 http://181.233.124.38:80/charlie/12345678/1769162
 #EXTINF:0 CUID="283" tvg-name="Sky Sports F1" tvg-id="skysportsf1.uk" tvg-logo="https://logo.iptveditor.com/skysportsf1.png" group-title="SPORTS ",Sky Sports F1
-http://edge.bz:8080/123456789/987654321/291
+http://195.181.164.134:80/live.ts?channelId=131&deviceUser=lionel&devicePass=lionel&uid=21781
 #EXTINF:0 CUID="284" tvg-name="Sky Sports Football" tvg-id="skysportsfootball.uk" tvg-logo="https://logo.iptveditor.com/skysportsfootball.png" group-title="SPORTS ",Sky Sports Football
 http://195.181.164.134:80/live.ts?channelId=137&deviceUser=deb&devicePass=deb&uid=21781
 #EXTINF:0 CUID="285" tvg-name="Sky Sports Golf" tvg-id="skysportsgolf.uk" tvg-logo="https://logo.iptveditor.com/skysportsgolf.png" group-title="SPORTS ",Sky Sports Golf
@@ -358,12 +322,12 @@ http://edge.bz:8080/123456789/987654321/286
 http://edge.bz:8080/123456789/987654321/287
 #EXTINF:0 CUID="288" tvg-name="Sky Sports Premier League" tvg-id="skysportspremierleague.uk" tvg-logo="https://logo.iptveditor.com/skysportspremierleague.png" group-title="SPORTS ",Sky Sports Premier League
 http://195.181.164.130:80/live.ts?channelId=136&deviceUser=deb&devicePass=deb&uid=21781
-#EXTINF:0 CUID="418" tvg-name="Flow Sports" tvg-id="carflowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports
-http://tvpanel.one:80/live/Alexis4/alexis4/782673.ts
-#EXTINF:0 CUID="419" tvg-name="Flow Sports 2" tvg-id="flowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports 2
-http://iptv365.xyz:900/3160760056/5CD5B7DC/376144
 #EXTINF:0 CUID="450" tvg-name="Sky Sport Mix" tvg-id="skysportmix.uk" tvg-logo="https://logo.iptveditor.com/skysportmix.png" group-title="SPORTS ",Sky Sport Mix
 http://edge.bz:8080/123456789/987654321/289
+#EXTINF:0 CUID="418" tvg-name="Flow Sports" tvg-id="carflowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports
+http://206.212.248.24:80/live/steve99/steve99/118997.m3u
+#EXTINF:0 CUID="419" tvg-name="Flow Sports 2" tvg-id="flowsports.jm" tvg-logo="https://logo.iptveditor.com/flowsport1.png" group-title="SPORTS ",Flow Sports 2
+http://iptv365.xyz:900/3160760056/5CD5B7DC/376144
 #EXTINF:0 CUID="28" tvg-name="ABC (WPLG) Miami FL" tvg-id="abctampabay.us" tvg-logo="https://logo.iptveditor.com/nbcmiamifl.png" group-title="NEWS",ABC (WPLG) Miami FL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:0 CUID="29" tvg-name="BBC World CA" tvg-id="bbcworld.ca" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png" group-title="NEWS",BBC World CA
@@ -401,7 +365,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEYXD.smil/playl
 #EXTINF:0 CUID="46" tvg-name="DUCKTV" tvg-id="ducktv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",DUCKTV
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 CUID="64" tvg-name="Nickelodeon East" tvg-id="nickelodeon.us" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="KIDS",Nickelodeon East
-http://181.233.124.38:80/charles12/charles12/189984
+http://181.233.124.38:80/christian/christian123/189984
 #EXTINF:0 CUID="65" tvg-name="TeenNick (East) US" tvg-id="teennick.us" tvg-logo="https://static.epg.best/us/TeenNick.us.png" group-title="KIDS",TeenNick (East) US
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:TEEN_NICK.smil/playlist.m3u8
 #EXTINF:0 CUID="66" tvg-name="Nick Jr US" tvg-id="nickjr.us" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="KIDS",Nick Jr US
@@ -412,6 +376,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CARTOON.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISNEY.smil/playlist.m3u8
 #EXTINF:0 CUID="405" tvg-name="SMILE" tvg-id="smile.us" tvg-logo="https://static.epg.best/gr/SmileTV.gr.png" group-title="KIDS",SMILE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/playlist.m3u8
+#EXTINF:0 CUID="211" tvg-name="🇺🇸US: BOOMERANG" tvg-id="boomerang.us" tvg-logo="https://www.logolynx.com/images/logolynx/cb/cb647cf1e1fc1bc0d0165c36b7ec227d.png" group-title="KIDS",🇺🇸US: BOOMERANG
+http://tvpanel.one:80/live/Alexis4/alexis4/787957.ts
 #EXTINF:0 CUID="119" tvg-name="CAR| IETV HFD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Ietv.jpg" group-title="Bollywood",CAR| IETV HFD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/playlist.m3u8
 #EXTINF:0 CUID="120" tvg-name="Zee Cinema" tvg-id="zeecinema.us" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png" group-title="Bollywood",Zee Cinema
