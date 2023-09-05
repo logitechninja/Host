@@ -100,7 +100,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:0 CUID="80" tvg-name="HGTV (East) US" tvg-id="hgtv.us" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="ENTERTAINMENT",HGTV (East) US
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
-#EXTINF:0 CUID="467" tvg-name="AXN TV" tvg-id="axn.latino" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ENTERTAINMENT",AXN TV
+#EXTINF:0 CUID="467" tvg-name="AXN " tvg-id="axnjapan.us" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="ENTERTAINMENT",AXN 
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/chunklist_b2500000_slen.m3u8
 #EXTINF:0 CUID="81" tvg-name="ION" tvg-id="ion.us" tvg-logo="https://deadline.com/wp-content/uploads/2016/10/ion-tv-new-logo-2016.jpg" group-title="ENTERTAINMENT",ION
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:ION.smil/playlist.m3u8
@@ -214,6 +214,8 @@ https://trezix.tv:443/CharlieS/CharlieS/4781.ts
 https://trezix.tv:443/CharlieS/CharlieS/4782.ts
 #EXTINF:0 CUID="105" tvg-name="HBO EAST USA" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="ONLY MOVIES",HBO EAST USA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
+#EXTINF:0 CUID="110" tvg-name="HBO XTREME" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="ONLY MOVIES",HBO XTREME
+https://is.gd/wuoSce
 #EXTINF:0 CUID="106" tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="ONLY MOVIES",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:0 CUID="107" tvg-name="HBO PLUS" tvg-logo="https://static.epg.best/br/HBOPlusBrasil.br.png" group-title="ONLY MOVIES",HBO PLUS
