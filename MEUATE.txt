@@ -89,7 +89,7 @@ http://181.233.124.38:80/Roberta1/Roberta2/175863
 #EXTINF:0 CUID="75" tvg-name="Game Show Central" tvg-id="gameshowcentral.us" tvg-logo="https://origin-www.gameshownetwork.com/storage/app/media/2020/gameshowcentral/Game_Show_Central.png" group-title="ENTERTAINMENT",Game Show Central
 https://cf289725d35440ecb69f75421bd40fa5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-ca_GameShowCentral/playlist.m3u8?
 #EXTINF:0 CUID="333" tvg-name="USA | HALLMARK CHANNEL" tvg-id="hallmarkchannel.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png" group-title="ENTERTAINMENT",USA | HALLMARK CHANNEL
-http://tvpanel.one:80/live/Alexis4/alexis4/787904.ts
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:HALLMARK.smil/playlist.m3u8
 #EXTINF:0 CUID="77" tvg-name="HALLMARK MOVIES" tvg-id="hallmarkmovies&more.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png" group-title="ENTERTAINMENT",HALLMARK MOVIES
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8
 #EXTINF:0 CUID="280" tvg-name="Hallmark Drama" tvg-id="hallmarkdrama.us" tvg-logo="https://logo.iptveditor.com/hallmarkdrama.png" group-title="ENTERTAINMENT",Hallmark Drama
