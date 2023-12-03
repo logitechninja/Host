@@ -1,5 +1,5 @@
 #EXTINF:-1,#EXTM3U
-#EXTM3U x-tvg-url="https://opop.pro/UoMstMqpSv4c" refresh="3600"
+#EXTM3U x-tvg-url=http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/playlist.m3u8" refresh="3600"
 #EXTINF:0 CUID="289" tvg-name="CAR: CNC3 | HD" tvg-id="carcnc3trinidad.tt" tvg-logo="https://logo.iptveditor.com/cnc3.png" group-title="ENTERTAINMENT",CAR: CNC3 | HD
 https://is.gd/SwEN4F
 #EXTINF:0 CUID="291" tvg-name="Carib: CCN TV6" tvg-id="ccntv6.tt" tvg-logo="https://logo.iptveditor.com/ccntv7.png" group-title="ENTERTAINMENT",Carib: CCN TV6
